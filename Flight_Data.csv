@@ -1,0 +1,1501 @@
+Origin,destination,time,price,seats
+Los Angeles,Berlin,01-11-2025 20:00,700,350
+Chicago,Dubai,01-11-2025 10:00,750,300
+Chicago,Tokyo,01-11-2025 20:00,500,400
+New York,Beijing,01-11-2025 20:00,600,250
+Chicago,Sydney,01-11-2025 12:00,750,400
+San Diego,Paris,01-11-2025 20:00,550,300
+Houston,Toronto,01-11-2025 14:00,750,350
+Chicago,Dubai,01-11-2025 18:00,900,250
+San Antonio,Beijing,01-11-2025 20:00,750,100
+Dallas,Berlin,01-11-2025 18:00,600,400
+San Diego,Tokyo,01-11-2025 10:00,500,350
+Philadelphia,Berlin,01-11-2025 12:00,500,300
+San Diego,Beijing,01-11-2025 10:00,900,400
+Chicago,Dubai,01-11-2025 20:00,800,100
+San Antonio,Dubai,01-11-2025 12:00,650,200
+San Antonio,Paris,01-11-2025 20:00,500,350
+Phoenix,Dubai,01-11-2025 12:00,650,200
+Los Angeles,London,01-11-2025 14:00,1000,200
+Phoenix,London,01-11-2025 10:00,800,300
+Phoenix,Berlin,01-11-2025 16:00,600,400
+Phoenix,Tokyo,01-11-2025 12:00,500,250
+Dallas,Dubai,01-11-2025 14:00,500,100
+New York,Sydney,01-11-2025 16:00,500,350
+Phoenix,Sydney,01-11-2025 12:00,800,100
+Los Angeles,London,01-11-2025 14:00,700,200
+San Antonio,Bangkok,01-11-2025 10:00,650,300
+New York,Paris,01-11-2025 14:00,650,300
+Houston,Bangkok,01-11-2025 10:00,800,250
+Philadelphia,Berlin,01-11-2025 12:00,500,350
+Chicago,Beijing,01-11-2025 16:00,900,300
+Phoenix,Dubai,01-11-2025 16:00,500,200
+New York,Dubai,01-11-2025 20:00,450,100
+San Antonio,Toronto,01-11-2025 12:00,600,150
+Chicago,London,01-11-2025 16:00,550,150
+San Diego,Toronto,01-11-2025 20:00,1000,350
+Phoenix,Beijing,01-11-2025 10:00,600,200
+New York,Rome,01-11-2025 16:00,750,400
+Phoenix,Sydney,01-11-2025 14:00,750,250
+San Diego,Berlin,01-11-2025 10:00,1000,150
+Los Angeles,Berlin,01-11-2025 10:00,700,350
+Philadelphia,Berlin,01-11-2025 20:00,450,400
+San Diego,Beijing,01-11-2025 12:00,650,250
+New York,Berlin,01-11-2025 16:00,650,300
+San Antonio,Rome,01-11-2025 10:00,550,300
+Chicago,Dubai,01-11-2025 10:00,650,150
+Los Angeles,Dubai,01-11-2025 14:00,750,100
+New York,Beijing,01-11-2025 18:00,550,350
+Dallas,London,01-11-2025 10:00,500,250
+Austin,London,01-11-2025 10:00,450,350
+Austin,Dubai,01-11-2025 10:00,600,400
+Austin,Berlin,01-11-2025 14:00,900,300
+Los Angeles,Paris,01-11-2025 18:00,600,150
+Phoenix,London,01-11-2025 20:00,550,150
+Philadelphia,Dubai,01-11-2025 12:00,700,200
+Dallas,Dubai,01-11-2025 16:00,1000,200
+Dallas,Tokyo,01-11-2025 20:00,750,350
+Dallas,Paris,01-11-2025 10:00,700,400
+Los Angeles,Tokyo,01-11-2025 12:00,450,100
+Dallas,Paris,01-11-2025 12:00,500,350
+Dallas,Toronto,01-11-2025 18:00,750,300
+Houston,Bangkok,01-11-2025 14:00,700,150
+San Antonio,Sydney,01-11-2025 18:00,600,400
+New York,Toronto,01-11-2025 10:00,450,300
+New York,Beijing,01-11-2025 20:00,700,200
+Dallas,Toronto,01-11-2025 18:00,700,400
+Austin,Bangkok,01-11-2025 20:00,450,200
+Phoenix,Sydney,01-11-2025 18:00,900,100
+Philadelphia,Toronto,01-11-2025 10:00,900,300
+Houston,Berlin,01-11-2025 12:00,900,100
+Dallas,Tokyo,01-11-2025 14:00,700,300
+San Diego,Rome,01-11-2025 16:00,500,250
+Philadelphia,London,01-11-2025 12:00,550,100
+Los Angeles,Tokyo,01-11-2025 10:00,450,350
+San Antonio,Rome,01-11-2025 20:00,700,250
+Phoenix,Berlin,01-11-2025 14:00,550,200
+New York,Sydney,01-11-2025 14:00,500,300
+Philadelphia,Beijing,01-11-2025 12:00,1000,400
+Philadelphia,Sydney,01-11-2025 12:00,1000,150
+San Diego,Rome,01-11-2025 10:00,750,250
+Los Angeles,Bangkok,01-11-2025 14:00,900,150
+San Diego,Beijing,01-11-2025 20:00,1000,150
+Los Angeles,Sydney,01-11-2025 14:00,650,150
+San Antonio,Rome,01-11-2025 12:00,500,300
+Chicago,Paris,01-11-2025 20:00,550,250
+San Diego,Paris,01-11-2025 14:00,550,150
+Houston,Bangkok,01-11-2025 16:00,700,350
+Austin,Beijing,01-11-2025 16:00,450,350
+San Antonio,Beijing,01-11-2025 10:00,700,150
+Chicago,Sydney,01-11-2025 12:00,800,350
+Philadelphia,Toronto,01-11-2025 16:00,550,150
+Austin,Berlin,01-11-2025 14:00,900,200
+Houston,Bangkok,01-11-2025 12:00,750,350
+Houston,Beijing,01-11-2025 20:00,650,150
+Houston,Rome,01-11-2025 18:00,600,150
+Phoenix,Tokyo,01-11-2025 14:00,900,250
+Philadelphia,Paris,01-11-2025 12:00,500,200
+Philadelphia,Rome,01-11-2025 18:00,500,100
+San Antonio,London,01-11-2025 20:00,750,300
+San Diego,Dubai,01-11-2025 16:00,700,400
+San Diego,Rome,01-11-2025 14:00,450,400
+San Antonio,Paris,01-11-2025 20:00,550,250
+Chicago,Sydney,01-11-2025 14:00,500,350
+Chicago,Tokyo,01-11-2025 18:00,600,350
+Chicago,Toronto,01-11-2025 20:00,650,400
+San Antonio,Paris,01-11-2025 14:00,750,200
+Chicago,London,01-11-2025 20:00,750,250
+Los Angeles,Bangkok,01-11-2025 12:00,800,350
+Philadelphia,Rome,01-11-2025 10:00,650,100
+Los Angeles,Bangkok,01-11-2025 12:00,900,100
+Austin,Dubai,01-11-2025 10:00,1000,100
+Austin,Tokyo,01-11-2025 16:00,1000,300
+San Antonio,Toronto,01-11-2025 18:00,450,400
+Houston,Tokyo,01-11-2025 16:00,1000,200
+Los Angeles,Sydney,01-11-2025 20:00,750,350
+Los Angeles,Bangkok,01-11-2025 16:00,550,300
+Los Angeles,Toronto,01-11-2025 18:00,500,200
+Houston,Beijing,01-11-2025 10:00,500,350
+Los Angeles,Tokyo,01-11-2025 12:00,650,200
+Philadelphia,Dubai,01-11-2025 14:00,1000,100
+Phoenix,Dubai,01-11-2025 18:00,550,200
+Philadelphia,Dubai,01-11-2025 10:00,450,250
+New York,London,01-11-2025 14:00,600,350
+Phoenix,Bangkok,01-11-2025 14:00,500,100
+Houston,Rome,01-11-2025 18:00,800,350
+San Diego,Beijing,01-11-2025 16:00,700,250
+Dallas,Dubai,01-11-2025 12:00,450,150
+Philadelphia,Bangkok,01-11-2025 12:00,600,350
+Chicago,Berlin,01-11-2025 12:00,650,350
+Los Angeles,Sydney,01-11-2025 16:00,550,300
+Chicago,London,01-11-2025 10:00,800,250
+Philadelphia,Beijing,01-11-2025 16:00,750,200
+San Diego,Berlin,01-11-2025 20:00,750,150
+Austin,Bangkok,01-11-2025 14:00,450,250
+Philadelphia,Beijing,01-11-2025 20:00,600,150
+Phoenix,Berlin,01-11-2025 14:00,450,100
+San Diego,Rome,01-11-2025 12:00,500,100
+Houston,Sydney,01-11-2025 20:00,750,300
+Philadelphia,Sydney,01-11-2025 18:00,500,150
+Houston,Sydney,01-11-2025 16:00,450,300
+San Diego,Paris,01-11-2025 20:00,650,400
+New York,Beijing,01-11-2025 18:00,700,350
+Chicago,Dubai,01-11-2025 10:00,750,400
+Philadelphia,Berlin,01-11-2025 10:00,750,200
+Chicago,Tokyo,01-11-2025 14:00,600,100
+San Antonio,Sydney,01-11-2025 16:00,900,200
+Chicago,Toronto,01-11-2025 12:00,450,400
+San Diego,Beijing,01-11-2025 20:00,900,350
+Houston,Paris,01-11-2025 18:00,1000,350
+New York,Rome,01-11-2025 10:00,500,100
+Dallas,Beijing,01-11-2025 18:00,750,250
+Philadelphia,Paris,01-11-2025 16:00,500,250
+San Antonio,London,01-11-2025 10:00,900,350
+Dallas,Sydney,01-11-2025 10:00,750,200
+Austin,Tokyo,01-11-2025 12:00,650,350
+Philadelphia,Sydney,01-11-2025 14:00,450,250
+Austin,Sydney,01-11-2025 10:00,450,300
+Los Angeles,Dubai,01-11-2025 16:00,750,150
+Dallas,London,01-11-2025 14:00,550,300
+Los Angeles,Bangkok,01-11-2025 10:00,1000,200
+Dallas,Tokyo,01-11-2025 16:00,650,150
+Dallas,Bangkok,01-11-2025 18:00,800,400
+Dallas,London,01-11-2025 16:00,450,200
+Phoenix,Dubai,01-11-2025 20:00,550,100
+Houston,London,01-11-2025 20:00,600,300
+Phoenix,Tokyo,01-11-2025 18:00,800,350
+Los Angeles,Toronto,01-11-2025 12:00,1000,100
+Dallas,Beijing,01-11-2025 10:00,650,200
+Austin,London,01-11-2025 18:00,550,250
+Los Angeles,Berlin,01-11-2025 20:00,450,350
+Houston,Bangkok,01-11-2025 14:00,1000,100
+Los Angeles,London,01-11-2025 16:00,750,300
+Dallas,Bangkok,01-11-2025 18:00,900,150
+New York,Toronto,01-11-2025 18:00,1000,100
+San Antonio,Bangkok,01-11-2025 12:00,750,300
+Austin,Tokyo,01-11-2025 16:00,500,400
+Dallas,Toronto,01-11-2025 18:00,550,250
+New York,Bangkok,01-11-2025 10:00,900,100
+Chicago,Dubai,01-11-2025 18:00,600,100
+New York,Beijing,01-11-2025 16:00,500,150
+Phoenix,Sydney,01-11-2025 14:00,550,350
+San Diego,Bangkok,01-11-2025 16:00,1000,150
+Dallas,Paris,01-11-2025 16:00,750,200
+San Diego,Rome,01-11-2025 20:00,500,400
+Los Angeles,Paris,01-11-2025 14:00,600,350
+San Diego,London,01-11-2025 12:00,450,200
+Phoenix,Berlin,01-11-2025 20:00,900,250
+Chicago,Berlin,01-11-2025 20:00,700,400
+Houston,Beijing,01-11-2025 14:00,500,350
+Philadelphia,Berlin,01-11-2025 10:00,650,150
+Philadelphia,Dubai,01-11-2025 14:00,600,200
+Houston,Toronto,01-11-2025 14:00,550,200
+Houston,Tokyo,01-11-2025 20:00,550,100
+Los Angeles,Beijing,01-11-2025 14:00,650,150
+Dallas,Bangkok,01-11-2025 20:00,550,300
+Austin,London,01-11-2025 20:00,600,400
+Chicago,Beijing,01-11-2025 18:00,600,300
+Houston,Bangkok,01-11-2025 14:00,700,350
+Houston,Rome,01-11-2025 14:00,750,350
+San Antonio,Sydney,01-11-2025 18:00,750,200
+New York,Rome,01-11-2025 14:00,900,400
+Los Angeles,Sydney,01-11-2025 12:00,700,200
+Los Angeles,Sydney,01-11-2025 12:00,500,100
+Houston,Toronto,01-11-2025 20:00,700,400
+San Antonio,Berlin,01-11-2025 16:00,600,400
+New York,Toronto,01-11-2025 16:00,450,350
+San Diego,Dubai,01-11-2025 12:00,650,100
+Chicago,Bangkok,01-11-2025 20:00,900,400
+Houston,Bangkok,01-11-2025 14:00,600,300
+Houston,Tokyo,01-11-2025 12:00,600,400
+Phoenix,Berlin,01-11-2025 14:00,550,300
+Dallas,Rome,01-11-2025 18:00,1000,100
+Houston,Tokyo,01-11-2025 18:00,900,300
+San Antonio,Sydney,01-11-2025 20:00,800,300
+Philadelphia,London,01-11-2025 10:00,650,250
+San Antonio,Rome,01-11-2025 18:00,550,150
+Austin,Dubai,01-11-2025 10:00,450,150
+Houston,Berlin,01-11-2025 16:00,500,350
+Chicago,Dubai,01-11-2025 16:00,700,200
+Austin,Rome,01-11-2025 18:00,500,400
+Philadelphia,Tokyo,01-11-2025 10:00,450,200
+Houston,Bangkok,01-11-2025 20:00,600,100
+Los Angeles,Paris,01-11-2025 10:00,450,200
+Houston,Rome,01-11-2025 12:00,700,100
+Dallas,Beijing,01-11-2025 16:00,1000,200
+Chicago,Bangkok,01-11-2025 10:00,650,250
+San Diego,Berlin,01-11-2025 20:00,650,200
+New York,Bangkok,01-11-2025 20:00,500,300
+New York,London,01-11-2025 16:00,500,200
+Houston,Rome,01-11-2025 20:00,450,200
+Houston,Toronto,01-11-2025 18:00,500,250
+Chicago,Toronto,01-11-2025 12:00,650,150
+Chicago,Berlin,01-11-2025 14:00,1000,250
+Austin,Bangkok,01-11-2025 16:00,700,250
+Phoenix,Rome,01-11-2025 16:00,800,200
+Houston,Toronto,01-11-2025 18:00,800,150
+Philadelphia,Tokyo,01-11-2025 16:00,1000,250
+Phoenix,Beijing,01-11-2025 10:00,650,200
+Chicago,Sydney,01-11-2025 18:00,500,250
+Phoenix,London,01-11-2025 16:00,1000,150
+San Diego,Berlin,01-11-2025 10:00,600,300
+San Antonio,London,01-11-2025 16:00,900,250
+New York,Beijing,01-11-2025 16:00,650,300
+New York,London,01-11-2025 12:00,500,150
+Dallas,Dubai,01-11-2025 16:00,750,350
+Austin,Tokyo,01-11-2025 14:00,900,400
+Austin,Paris,01-11-2025 18:00,650,150
+San Antonio,Berlin,01-11-2025 20:00,600,300
+Dallas,Dubai,01-11-2025 14:00,800,300
+Philadelphia,Sydney,01-11-2025 12:00,750,100
+Philadelphia,Dubai,01-11-2025 12:00,750,250
+Los Angeles,Dubai,01-11-2025 10:00,450,200
+Phoenix,Sydney,01-11-2025 18:00,500,200
+San Antonio,Dubai,01-11-2025 18:00,1000,400
+Los Angeles,Paris,01-11-2025 20:00,650,300
+Austin,Toronto,01-11-2025 20:00,800,200
+New York,Dubai,01-11-2025 18:00,900,200
+Phoenix,Paris,01-11-2025 12:00,600,200
+Chicago,Rome,01-11-2025 16:00,700,100
+Dallas,London,01-11-2025 14:00,1000,300
+Houston,Toronto,01-11-2025 18:00,650,250
+San Diego,London,01-11-2025 10:00,450,150
+San Diego,Rome,01-11-2025 20:00,500,200
+San Diego,Toronto,01-11-2025 10:00,900,400
+Austin,Sydney,01-11-2025 10:00,650,300
+Chicago,Beijing,01-11-2025 14:00,750,250
+Philadelphia,Beijing,01-11-2025 18:00,800,400
+Dallas,Berlin,01-11-2025 18:00,500,250
+Phoenix,Paris,01-11-2025 14:00,900,200
+Chicago,Rome,01-11-2025 20:00,450,150
+Chicago,Paris,01-11-2025 10:00,1000,100
+San Antonio,Dubai,01-11-2025 16:00,600,100
+Dallas,London,01-11-2025 10:00,500,150
+Philadelphia,Rome,01-11-2025 12:00,650,400
+Phoenix,Dubai,01-11-2025 20:00,650,400
+Chicago,Dubai,01-11-2025 14:00,900,150
+Austin,Tokyo,01-11-2025 12:00,550,400
+San Diego,Bangkok,01-11-2025 10:00,650,150
+Dallas,Berlin,01-11-2025 20:00,750,150
+Houston,Rome,01-11-2025 16:00,700,250
+Los Angeles,Sydney,01-11-2025 18:00,1000,400
+Los Angeles,Berlin,01-11-2025 16:00,450,150
+Chicago,London,01-11-2025 20:00,450,250
+Phoenix,Rome,01-11-2025 20:00,700,100
+Phoenix,Bangkok,01-11-2025 12:00,800,400
+Austin,Paris,01-11-2025 10:00,750,400
+Dallas,Bangkok,01-11-2025 14:00,800,400
+San Diego,Tokyo,01-11-2025 18:00,600,400
+San Antonio,London,01-11-2025 10:00,750,150
+Chicago,London,01-11-2025 18:00,800,350
+Phoenix,Tokyo,01-11-2025 18:00,800,350
+Los Angeles,Paris,01-11-2025 18:00,650,400
+Houston,Sydney,01-11-2025 16:00,500,250
+Houston,Tokyo,01-11-2025 18:00,500,350
+Austin,Beijing,01-11-2025 20:00,900,200
+Dallas,Berlin,01-11-2025 10:00,600,150
+Austin,Paris,01-11-2025 12:00,800,100
+San Diego,Rome,01-11-2025 12:00,800,200
+Chicago,Bangkok,01-11-2025 10:00,800,350
+San Diego,Sydney,01-11-2025 12:00,550,300
+Phoenix,Berlin,01-11-2025 18:00,900,300
+Houston,Dubai,01-11-2025 20:00,550,250
+New York,Rome,01-11-2025 20:00,550,250
+Phoenix,Beijing,01-11-2025 16:00,500,250
+Dallas,Tokyo,01-11-2025 14:00,750,400
+Houston,Tokyo,01-11-2025 18:00,1000,250
+Houston,Sydney,01-11-2025 20:00,750,200
+Chicago,Tokyo,01-11-2025 16:00,1000,250
+Houston,Berlin,01-11-2025 20:00,650,300
+Houston,Bangkok,01-11-2025 10:00,500,100
+Phoenix,Bangkok,01-11-2025 20:00,750,400
+Austin,Tokyo,01-11-2025 16:00,550,150
+San Antonio,Berlin,01-11-2025 14:00,600,300
+Houston,London,01-11-2025 20:00,550,150
+New York,London,01-11-2025 12:00,550,400
+Chicago,Toronto,01-11-2025 18:00,1000,200
+Austin,Berlin,01-11-2025 16:00,750,300
+Houston,Tokyo,01-11-2025 10:00,650,300
+Phoenix,Toronto,01-11-2025 10:00,550,200
+Houston,Rome,01-11-2025 20:00,750,200
+Los Angeles,Bangkok,01-11-2025 20:00,450,150
+San Antonio,Dubai,01-11-2025 18:00,450,150
+Philadelphia,Sydney,01-11-2025 10:00,450,350
+Philadelphia,Toronto,01-11-2025 18:00,800,150
+Phoenix,Dubai,01-11-2025 14:00,600,400
+Austin,Paris,01-11-2025 10:00,750,200
+Los Angeles,Sydney,01-11-2025 10:00,650,350
+San Antonio,Bangkok,01-11-2025 14:00,750,350
+Austin,Toronto,01-11-2025 14:00,450,400
+Los Angeles,Berlin,01-11-2025 10:00,550,200
+Dallas,Bangkok,01-11-2025 20:00,650,300
+Philadelphia,Rome,01-11-2025 20:00,800,350
+Chicago,Bangkok,01-11-2025 18:00,1000,300
+Dallas,Beijing,01-11-2025 12:00,1000,250
+Los Angeles,Tokyo,01-11-2025 10:00,800,200
+Chicago,Tokyo,01-11-2025 16:00,450,150
+San Antonio,Bangkok,01-11-2025 18:00,1000,400
+Austin,Toronto,01-11-2025 10:00,900,300
+San Antonio,Toronto,01-11-2025 10:00,600,350
+San Diego,Bangkok,01-11-2025 18:00,700,200
+San Diego,Tokyo,01-11-2025 12:00,650,200
+New York,Sydney,01-11-2025 14:00,550,300
+Dallas,Sydney,01-11-2025 14:00,1000,200
+Los Angeles,Beijing,01-11-2025 20:00,1000,300
+Dallas,Rome,01-11-2025 16:00,500,250
+Houston,Berlin,01-11-2025 18:00,1000,100
+Philadelphia,London,01-11-2025 18:00,750,100
+Phoenix,London,01-11-2025 16:00,700,350
+Austin,London,01-11-2025 10:00,550,150
+Philadelphia,Paris,01-11-2025 20:00,450,100
+Austin,Beijing,01-11-2025 14:00,900,400
+Phoenix,Dubai,01-11-2025 20:00,1000,100
+Chicago,Rome,01-11-2025 16:00,650,100
+Phoenix,Rome,01-11-2025 12:00,900,350
+Dallas,Bangkok,01-11-2025 14:00,900,100
+Phoenix,Sydney,01-11-2025 20:00,450,250
+Dallas,Tokyo,01-11-2025 18:00,1000,200
+Houston,Rome,01-11-2025 20:00,650,400
+Philadelphia,Berlin,01-11-2025 20:00,800,100
+New York,Berlin,01-11-2025 20:00,800,250
+Los Angeles,Toronto,01-11-2025 10:00,900,250
+Houston,Dubai,01-11-2025 18:00,900,250
+Dallas,Paris,01-11-2025 12:00,800,250
+Los Angeles,Sydney,01-11-2025 16:00,600,100
+Chicago,Berlin,01-11-2025 16:00,750,250
+San Diego,Sydney,01-11-2025 16:00,900,400
+Los Angeles,Dubai,01-11-2025 18:00,550,250
+Houston,Toronto,01-11-2025 20:00,650,150
+Phoenix,Tokyo,01-11-2025 20:00,1000,300
+Phoenix,Tokyo,01-11-2025 16:00,500,400
+Phoenix,Tokyo,01-11-2025 16:00,500,150
+Dallas,Bangkok,01-11-2025 12:00,1000,300
+Phoenix,Rome,01-11-2025 16:00,750,350
+Phoenix,Dubai,01-11-2025 16:00,450,200
+Chicago,London,01-11-2025 12:00,550,150
+Chicago,Sydney,01-11-2025 12:00,500,250
+Phoenix,Paris,01-11-2025 18:00,650,400
+Philadelphia,Bangkok,01-11-2025 14:00,550,150
+Chicago,Rome,01-11-2025 12:00,450,300
+Austin,Paris,01-11-2025 18:00,500,250
+San Antonio,London,01-11-2025 18:00,700,250
+Philadelphia,Sydney,01-11-2025 16:00,600,150
+Philadelphia,Rome,01-11-2025 14:00,650,400
+San Diego,Sydney,01-11-2025 14:00,1000,400
+Philadelphia,Paris,01-11-2025 16:00,550,150
+San Antonio,Toronto,01-11-2025 10:00,700,400
+San Antonio,Bangkok,01-11-2025 20:00,600,400
+Austin,Paris,01-11-2025 10:00,800,100
+San Antonio,Berlin,01-11-2025 20:00,600,200
+Austin,Dubai,01-11-2025 12:00,600,100
+Houston,Tokyo,01-11-2025 10:00,450,150
+Philadelphia,Sydney,01-11-2025 12:00,750,250
+San Antonio,Bangkok,01-11-2025 20:00,550,350
+Philadelphia,London,01-11-2025 18:00,800,350
+Los Angeles,Beijing,01-11-2025 20:00,800,250
+New York,Paris,01-11-2025 20:00,600,250
+San Antonio,Bangkok,01-11-2025 16:00,700,200
+New York,Sydney,01-11-2025 12:00,600,100
+New York,Rome,01-11-2025 10:00,700,100
+Houston,Dubai,01-11-2025 18:00,600,200
+New York,Bangkok,01-11-2025 10:00,750,400
+Chicago,Tokyo,01-11-2025 20:00,500,400
+Phoenix,Tokyo,01-11-2025 16:00,900,350
+Los Angeles,Beijing,01-11-2025 16:00,700,400
+Dallas,Beijing,01-11-2025 18:00,750,200
+Philadelphia,Rome,01-11-2025 20:00,750,250
+Austin,Dubai,01-11-2025 18:00,500,400
+Philadelphia,Berlin,01-11-2025 18:00,650,200
+Houston,Paris,01-11-2025 12:00,450,400
+Chicago,London,01-11-2025 14:00,450,250
+San Antonio,Tokyo,01-11-2025 18:00,750,300
+San Antonio,Toronto,01-11-2025 20:00,500,300
+New York,Bangkok,01-11-2025 18:00,500,250
+Dallas,Sydney,01-11-2025 12:00,500,100
+Austin,Beijing,01-11-2025 16:00,500,350
+Los Angeles,Beijing,01-11-2025 20:00,700,350
+Los Angeles,Tokyo,01-11-2025 10:00,450,200
+Los Angeles,Berlin,01-11-2025 14:00,650,350
+Dallas,Sydney,01-11-2025 10:00,1000,400
+Los Angeles,Rome,01-11-2025 10:00,900,350
+New York,Paris,01-11-2025 14:00,650,300
+San Antonio,Dubai,01-11-2025 14:00,600,250
+Austin,Tokyo,01-11-2025 10:00,550,350
+Dallas,Toronto,01-11-2025 18:00,700,150
+Dallas,Rome,01-11-2025 10:00,700,300
+Austin,Beijing,01-11-2025 10:00,800,300
+Chicago,London,01-11-2025 18:00,900,250
+Philadelphia,London,01-11-2025 16:00,650,100
+Chicago,Toronto,01-11-2025 10:00,650,200
+San Antonio,Beijing,01-11-2025 12:00,900,400
+Phoenix,Paris,01-11-2025 20:00,550,250
+Houston,Paris,01-11-2025 16:00,750,150
+Phoenix,Bangkok,01-11-2025 10:00,450,200
+Philadelphia,Sydney,01-11-2025 18:00,750,300
+New York,Sydney,01-11-2025 20:00,900,200
+Los Angeles,Toronto,01-11-2025 10:00,650,350
+Dallas,Toronto,01-11-2025 14:00,800,250
+Houston,Rome,01-11-2025 14:00,750,350
+Houston,Tokyo,01-11-2025 20:00,800,100
+Austin,London,01-11-2025 10:00,1000,150
+San Antonio,Dubai,01-11-2025 10:00,1000,150
+New York,Rome,01-11-2025 16:00,500,100
+Chicago,Paris,01-11-2025 18:00,700,400
+Phoenix,Paris,01-11-2025 10:00,600,400
+Houston,Rome,01-11-2025 18:00,1000,350
+Philadelphia,Rome,01-11-2025 16:00,700,150
+New York,Bangkok,01-11-2025 10:00,700,250
+Philadelphia,Sydney,01-11-2025 10:00,450,250
+Austin,Tokyo,01-11-2025 12:00,750,350
+Dallas,Sydney,01-11-2025 16:00,500,350
+San Antonio,Rome,01-11-2025 10:00,700,400
+Los Angeles,Toronto,01-11-2025 14:00,450,250
+Chicago,Sydney,01-11-2025 18:00,650,350
+Houston,Beijing,01-11-2025 14:00,600,300
+Chicago,Berlin,01-11-2025 20:00,1000,100
+San Antonio,Toronto,01-11-2025 16:00,900,300
+New York,Berlin,01-11-2025 10:00,1000,300
+Dallas,Beijing,01-11-2025 10:00,450,300
+Los Angeles,Dubai,01-11-2025 16:00,550,300
+San Diego,Rome,01-11-2025 12:00,550,350
+Dallas,Toronto,01-11-2025 20:00,500,250
+New York,Tokyo,01-11-2025 10:00,700,100
+Chicago,Toronto,01-11-2025 18:00,900,150
+Philadelphia,Dubai,01-11-2025 20:00,450,150
+Philadelphia,Dubai,01-11-2025 10:00,1000,100
+Philadelphia,Paris,01-11-2025 12:00,500,200
+New York,Sydney,01-11-2025 12:00,500,200
+Chicago,Bangkok,01-11-2025 18:00,700,400
+Houston,Sydney,01-11-2025 20:00,650,250
+Dallas,Berlin,01-11-2025 14:00,600,200
+New York,Sydney,01-11-2025 10:00,550,200
+Chicago,Beijing,01-11-2025 12:00,800,350
+Houston,Toronto,01-11-2025 10:00,550,350
+Phoenix,Sydney,01-11-2025 18:00,800,150
+New York,Sydney,01-11-2025 14:00,1000,250
+San Diego,Berlin,01-11-2025 12:00,900,200
+Phoenix,Berlin,01-11-2025 16:00,500,400
+Los Angeles,Tokyo,01-11-2025 20:00,550,150
+Chicago,Sydney,01-11-2025 10:00,650,100
+San Antonio,Sydney,01-11-2025 14:00,900,150
+Phoenix,Beijing,01-11-2025 12:00,650,400
+Houston,Beijing,01-11-2025 14:00,900,150
+Chicago,Paris,01-11-2025 20:00,900,100
+Los Angeles,London,01-11-2025 16:00,700,350
+Los Angeles,Sydney,01-11-2025 20:00,800,200
+Houston,Rome,01-11-2025 18:00,450,100
+San Antonio,Tokyo,01-11-2025 20:00,500,350
+Houston,Berlin,01-11-2025 18:00,1000,150
+Phoenix,Rome,01-11-2025 14:00,500,400
+Chicago,Sydney,01-11-2025 18:00,650,250
+New York,Toronto,01-11-2025 20:00,1000,250
+Chicago,London,01-11-2025 12:00,450,100
+Phoenix,Dubai,01-11-2025 12:00,450,300
+Austin,Toronto,01-11-2025 10:00,700,300
+Dallas,Tokyo,01-11-2025 12:00,700,400
+Austin,Bangkok,01-11-2025 12:00,700,350
+Houston,Paris,01-11-2025 20:00,550,150
+Los Angeles,Tokyo,01-11-2025 12:00,750,150
+Austin,Paris,01-11-2025 14:00,800,200
+New York,Tokyo,01-11-2025 16:00,550,400
+New York,Paris,01-11-2025 20:00,900,200
+Austin,Tokyo,01-11-2025 10:00,800,200
+Chicago,Tokyo,01-11-2025 16:00,450,300
+Los Angeles,Dubai,01-11-2025 12:00,1000,400
+San Antonio,Paris,01-11-2025 20:00,700,250
+Phoenix,Berlin,01-11-2025 10:00,450,200
+Austin,Tokyo,01-11-2025 16:00,1000,100
+Dallas,Toronto,01-11-2025 18:00,750,350
+Dallas,Rome,01-11-2025 12:00,800,300
+Los Angeles,Dubai,01-11-2025 12:00,650,200
+Philadelphia,Dubai,01-11-2025 14:00,900,150
+Philadelphia,Paris,01-11-2025 18:00,800,250
+Philadelphia,Rome,01-11-2025 18:00,500,200
+New York,London,01-11-2025 20:00,450,200
+Chicago,Beijing,01-11-2025 18:00,650,200
+New York,Beijing,01-11-2025 14:00,650,250
+San Antonio,Berlin,01-11-2025 16:00,700,150
+Chicago,London,01-11-2025 20:00,900,350
+Phoenix,Bangkok,01-11-2025 10:00,650,200
+Philadelphia,Rome,01-11-2025 18:00,900,200
+Austin,Toronto,01-11-2025 18:00,600,250
+San Diego,Beijing,01-11-2025 14:00,900,400
+Dallas,Beijing,01-11-2025 12:00,1000,250
+Dallas,Toronto,01-11-2025 16:00,550,400
+Chicago,Dubai,01-11-2025 18:00,700,400
+San Diego,Dubai,01-11-2025 12:00,900,100
+Phoenix,Rome,01-11-2025 12:00,800,400
+Phoenix,London,01-11-2025 14:00,750,250
+Chicago,Rome,01-11-2025 14:00,1000,100
+New York,Beijing,01-11-2025 14:00,550,200
+San Diego,Dubai,01-11-2025 14:00,650,150
+Los Angeles,Dubai,01-11-2025 18:00,900,200
+San Antonio,London,01-11-2025 10:00,550,300
+New York,Berlin,01-11-2025 12:00,800,400
+Chicago,Rome,01-11-2025 12:00,600,200
+San Diego,London,01-11-2025 12:00,650,400
+San Antonio,Dubai,01-11-2025 18:00,650,350
+Austin,Beijing,01-11-2025 12:00,450,100
+Phoenix,Bangkok,01-11-2025 14:00,650,350
+San Diego,Rome,01-11-2025 20:00,600,400
+San Diego,London,01-11-2025 10:00,650,350
+New York,Tokyo,01-11-2025 14:00,900,350
+San Antonio,Tokyo,01-11-2025 18:00,800,150
+Houston,Bangkok,01-11-2025 10:00,750,250
+Philadelphia,Toronto,01-11-2025 18:00,700,150
+Houston,Bangkok,01-11-2025 12:00,550,400
+Phoenix,London,01-11-2025 10:00,900,100
+Austin,Sydney,01-11-2025 12:00,1000,100
+New York,Paris,01-11-2025 14:00,550,300
+Philadelphia,London,01-11-2025 16:00,550,200
+Dallas,Beijing,01-11-2025 16:00,750,350
+Austin,Toronto,01-11-2025 16:00,1000,150
+Chicago,Dubai,01-11-2025 10:00,800,200
+New York,Beijing,01-11-2025 18:00,550,200
+San Diego,Beijing,01-11-2025 10:00,750,200
+Austin,Tokyo,01-11-2025 12:00,1000,100
+Houston,Paris,01-11-2025 16:00,450,200
+Houston,Rome,01-11-2025 12:00,700,250
+San Antonio,Bangkok,01-11-2025 20:00,1000,100
+Los Angeles,Berlin,01-11-2025 10:00,500,150
+Chicago,Bangkok,01-11-2025 16:00,500,400
+Phoenix,Sydney,01-11-2025 10:00,550,400
+Houston,Beijing,01-11-2025 12:00,550,200
+Dallas,London,01-11-2025 12:00,600,150
+Phoenix,Sydney,01-11-2025 10:00,750,350
+San Antonio,Toronto,01-11-2025 16:00,1000,150
+Chicago,Tokyo,01-11-2025 14:00,750,400
+San Antonio,London,01-11-2025 20:00,750,150
+San Diego,Sydney,01-11-2025 12:00,600,150
+Phoenix,Rome,01-11-2025 18:00,500,300
+Los Angeles,Beijing,01-11-2025 16:00,550,100
+Houston,Toronto,01-11-2025 10:00,900,350
+Chicago,Paris,01-11-2025 10:00,550,150
+Los Angeles,Toronto,01-11-2025 18:00,450,150
+Houston,London,01-11-2025 16:00,600,300
+Philadelphia,Beijing,01-11-2025 16:00,700,100
+Phoenix,Rome,01-11-2025 20:00,900,300
+Houston,Sydney,01-11-2025 20:00,700,300
+Philadelphia,Beijing,01-11-2025 16:00,700,100
+Phoenix,Bangkok,01-11-2025 12:00,750,250
+Chicago,Dubai,01-11-2025 14:00,650,200
+Chicago,Beijing,01-11-2025 16:00,500,350
+New York,Toronto,01-11-2025 10:00,900,350
+Dallas,London,01-11-2025 12:00,1000,250
+San Diego,Toronto,01-11-2025 14:00,600,100
+San Diego,Berlin,01-11-2025 18:00,650,150
+San Antonio,Rome,01-11-2025 10:00,550,200
+Los Angeles,Rome,01-11-2025 12:00,550,300
+Dallas,Beijing,01-11-2025 14:00,700,200
+Houston,Tokyo,01-11-2025 10:00,1000,350
+New York,Beijing,01-11-2025 12:00,650,150
+Philadelphia,Sydney,01-11-2025 10:00,900,300
+Philadelphia,Paris,01-11-2025 18:00,600,250
+Los Angeles,Bangkok,01-11-2025 10:00,450,100
+Los Angeles,Bangkok,01-11-2025 18:00,750,150
+Dallas,Dubai,01-11-2025 16:00,800,250
+Chicago,Berlin,01-11-2025 16:00,550,250
+Houston,Dubai,01-11-2025 16:00,650,150
+Chicago,Toronto,01-11-2025 14:00,650,250
+San Diego,Bangkok,01-11-2025 12:00,800,400
+Chicago,Paris,01-11-2025 18:00,800,150
+Austin,Toronto,01-11-2025 20:00,650,150
+Los Angeles,Berlin,01-11-2025 16:00,450,100
+Philadelphia,Berlin,01-11-2025 20:00,600,250
+San Antonio,Beijing,01-11-2025 20:00,550,150
+Chicago,Berlin,01-11-2025 12:00,900,350
+Austin,Rome,01-11-2025 20:00,500,150
+Philadelphia,Toronto,01-11-2025 16:00,550,350
+Phoenix,Paris,01-11-2025 14:00,800,350
+Phoenix,Dubai,01-11-2025 10:00,700,150
+San Antonio,Berlin,01-11-2025 20:00,650,300
+San Antonio,Rome,01-11-2025 18:00,750,250
+Austin,Beijing,01-11-2025 10:00,500,300
+New York,Beijing,01-11-2025 14:00,1000,400
+San Antonio,Berlin,01-11-2025 16:00,750,350
+Philadelphia,London,01-11-2025 10:00,450,250
+Los Angeles,Dubai,01-11-2025 20:00,1000,300
+Los Angeles,Sydney,01-11-2025 18:00,800,150
+Los Angeles,Dubai,01-11-2025 14:00,650,400
+San Antonio,Sydney,01-11-2025 18:00,500,300
+Philadelphia,Toronto,01-11-2025 16:00,550,350
+Dallas,London,01-11-2025 10:00,500,150
+Phoenix,London,01-11-2025 16:00,1000,350
+New York,Berlin,01-11-2025 20:00,750,400
+Phoenix,Rome,01-11-2025 20:00,500,350
+Phoenix,Toronto,01-11-2025 10:00,450,400
+Dallas,Paris,01-11-2025 14:00,700,400
+Chicago,Bangkok,01-11-2025 20:00,1000,150
+New York,Berlin,01-11-2025 14:00,700,350
+San Antonio,Toronto,01-11-2025 20:00,700,300
+Philadelphia,Toronto,01-11-2025 14:00,700,400
+San Diego,London,01-11-2025 10:00,800,200
+Phoenix,Dubai,01-11-2025 20:00,650,100
+Austin,Berlin,01-11-2025 10:00,450,300
+Dallas,Paris,01-11-2025 14:00,500,100
+Houston,Dubai,01-11-2025 20:00,700,150
+Philadelphia,Tokyo,01-11-2025 12:00,900,400
+Dallas,Toronto,01-11-2025 18:00,900,350
+Austin,Dubai,01-11-2025 14:00,700,300
+Phoenix,Paris,01-11-2025 14:00,550,250
+Philadelphia,Bangkok,01-11-2025 20:00,700,300
+Austin,Beijing,01-11-2025 18:00,450,300
+Houston,Dubai,01-11-2025 20:00,650,150
+San Antonio,Bangkok,01-11-2025 10:00,600,100
+Dallas,Toronto,01-11-2025 16:00,750,300
+Los Angeles,Tokyo,01-11-2025 16:00,700,350
+Chicago,Dubai,01-11-2025 20:00,550,350
+San Diego,Paris,01-11-2025 12:00,900,200
+Philadelphia,Paris,01-11-2025 20:00,550,200
+Chicago,Berlin,01-11-2025 20:00,700,150
+San Diego,Bangkok,01-11-2025 18:00,900,400
+San Antonio,Tokyo,01-11-2025 16:00,700,350
+Philadelphia,Tokyo,01-11-2025 18:00,800,100
+Austin,Berlin,01-11-2025 18:00,600,400
+Los Angeles,London,01-11-2025 18:00,500,150
+San Antonio,Dubai,01-11-2025 10:00,800,400
+San Antonio,Bangkok,01-11-2025 12:00,650,250
+San Diego,Berlin,01-11-2025 12:00,700,300
+San Diego,Berlin,01-11-2025 20:00,900,200
+Philadelphia,Beijing,01-11-2025 20:00,650,100
+Los Angeles,Sydney,01-11-2025 20:00,600,200
+Houston,Rome,01-11-2025 10:00,1000,100
+New York,Dubai,01-11-2025 18:00,800,150
+Phoenix,Rome,01-11-2025 18:00,900,350
+Houston,Beijing,01-11-2025 10:00,700,150
+San Diego,Beijing,01-11-2025 20:00,900,150
+Phoenix,Tokyo,01-11-2025 16:00,1000,150
+Los Angeles,Paris,01-11-2025 14:00,900,400
+San Diego,Paris,01-11-2025 16:00,800,300
+Houston,Sydney,01-11-2025 14:00,750,300
+Phoenix,Bangkok,01-11-2025 12:00,500,250
+Los Angeles,Rome,01-11-2025 16:00,900,150
+Chicago,Sydney,01-11-2025 12:00,700,200
+Los Angeles,London,01-11-2025 12:00,550,400
+Dallas,Bangkok,01-11-2025 14:00,800,400
+Los Angeles,Dubai,01-11-2025 20:00,750,150
+Houston,Berlin,01-11-2025 14:00,1000,150
+San Diego,Paris,01-11-2025 10:00,450,100
+San Diego,Dubai,01-11-2025 18:00,450,100
+Los Angeles,Rome,01-11-2025 10:00,800,100
+New York,Berlin,01-11-2025 16:00,1000,150
+Chicago,London,01-11-2025 20:00,500,350
+Philadelphia,Sydney,01-11-2025 14:00,700,400
+Los Angeles,Rome,01-11-2025 14:00,800,400
+Chicago,Berlin,01-11-2025 14:00,1000,300
+Chicago,Tokyo,01-11-2025 12:00,900,300
+San Diego,Tokyo,01-11-2025 14:00,450,250
+Los Angeles,Tokyo,01-11-2025 10:00,650,350
+Houston,Sydney,01-11-2025 20:00,700,400
+New York,Paris,01-11-2025 10:00,550,100
+Austin,Beijing,01-11-2025 10:00,750,300
+Houston,Beijing,01-11-2025 12:00,700,400
+San Diego,London,01-11-2025 12:00,1000,250
+San Diego,Rome,01-11-2025 12:00,1000,250
+Los Angeles,Rome,01-11-2025 20:00,900,250
+Houston,Rome,01-11-2025 14:00,500,200
+Los Angeles,Dubai,01-11-2025 14:00,600,100
+Houston,Toronto,01-11-2025 18:00,600,250
+Los Angeles,Paris,01-11-2025 18:00,450,350
+San Diego,Sydney,01-11-2025 20:00,900,400
+San Antonio,Beijing,01-11-2025 12:00,1000,100
+Philadelphia,Paris,01-11-2025 14:00,500,300
+Philadelphia,Berlin,01-11-2025 12:00,750,100
+Phoenix,Beijing,01-11-2025 16:00,900,400
+San Diego,London,01-11-2025 16:00,900,400
+Los Angeles,Bangkok,01-11-2025 18:00,1000,250
+Dallas,Rome,01-11-2025 10:00,550,300
+San Diego,Paris,01-11-2025 16:00,500,250
+Austin,Berlin,01-11-2025 14:00,650,200
+Philadelphia,Sydney,01-11-2025 14:00,550,400
+Austin,Paris,01-11-2025 18:00,750,150
+Houston,Berlin,01-11-2025 14:00,550,300
+San Diego,London,01-11-2025 14:00,450,100
+New York,Tokyo,01-11-2025 20:00,800,350
+Chicago,Bangkok,01-11-2025 20:00,800,350
+New York,Beijing,01-11-2025 10:00,450,200
+Dallas,Beijing,01-11-2025 18:00,700,100
+Phoenix,Toronto,01-11-2025 18:00,500,200
+Phoenix,Berlin,01-11-2025 14:00,650,200
+San Antonio,Toronto,01-11-2025 14:00,800,250
+New York,Berlin,01-11-2025 18:00,650,250
+Dallas,Paris,01-11-2025 10:00,450,400
+Los Angeles,Bangkok,01-11-2025 20:00,650,150
+Dallas,Sydney,01-11-2025 12:00,450,150
+Philadelphia,London,01-11-2025 12:00,1000,100
+Los Angeles,Paris,01-11-2025 14:00,450,200
+Dallas,Beijing,01-11-2025 18:00,1000,300
+Philadelphia,Rome,01-11-2025 10:00,600,400
+Houston,Dubai,01-11-2025 18:00,700,300
+Los Angeles,Bangkok,01-11-2025 18:00,650,100
+Dallas,Dubai,01-11-2025 18:00,500,100
+San Antonio,Toronto,01-11-2025 12:00,1000,400
+San Diego,Rome,01-11-2025 16:00,450,100
+New York,Beijing,01-11-2025 18:00,800,350
+Phoenix,Beijing,01-11-2025 12:00,500,150
+Austin,London,01-11-2025 18:00,600,150
+Houston,Berlin,01-11-2025 20:00,800,350
+Austin,London,01-11-2025 20:00,450,150
+Austin,Toronto,01-11-2025 16:00,550,350
+Philadelphia,Paris,01-11-2025 16:00,450,350
+Chicago,Berlin,01-11-2025 18:00,450,400
+Phoenix,Paris,01-11-2025 12:00,500,400
+Philadelphia,Paris,01-11-2025 10:00,1000,100
+San Antonio,Paris,01-11-2025 18:00,650,150
+Philadelphia,Beijing,01-11-2025 20:00,450,100
+Austin,Rome,01-11-2025 18:00,700,300
+Los Angeles,Paris,01-11-2025 16:00,650,250
+Philadelphia,Tokyo,01-11-2025 16:00,600,250
+Philadelphia,Paris,01-11-2025 14:00,500,250
+Phoenix,Bangkok,01-11-2025 20:00,500,250
+San Diego,Tokyo,01-11-2025 14:00,600,300
+Phoenix,Berlin,01-11-2025 18:00,500,200
+New York,Beijing,01-11-2025 18:00,800,300
+San Antonio,Toronto,01-11-2025 10:00,750,400
+Philadelphia,Sydney,01-11-2025 12:00,600,300
+New York,Sydney,01-11-2025 12:00,450,300
+Dallas,Berlin,01-11-2025 18:00,700,300
+Philadelphia,Tokyo,01-11-2025 20:00,1000,150
+Philadelphia,Rome,01-11-2025 10:00,550,200
+Phoenix,Paris,01-11-2025 20:00,750,100
+Los Angeles,Dubai,01-11-2025 20:00,450,300
+San Antonio,London,01-11-2025 10:00,600,250
+Phoenix,Berlin,01-11-2025 10:00,500,250
+Austin,London,01-11-2025 18:00,700,200
+Austin,Tokyo,01-11-2025 20:00,500,350
+Philadelphia,Bangkok,01-11-2025 14:00,900,400
+Austin,Toronto,01-11-2025 16:00,600,150
+San Diego,Bangkok,01-11-2025 16:00,550,250
+Dallas,Rome,01-11-2025 18:00,1000,400
+San Diego,Beijing,01-11-2025 10:00,750,200
+San Antonio,Rome,01-11-2025 16:00,600,250
+Chicago,Tokyo,01-11-2025 16:00,500,250
+Houston,Sydney,01-11-2025 12:00,500,300
+Los Angeles,London,01-11-2025 12:00,800,150
+Austin,Beijing,01-11-2025 10:00,500,200
+Los Angeles,Tokyo,01-11-2025 10:00,1000,200
+Los Angeles,London,01-11-2025 10:00,550,100
+Philadelphia,Toronto,01-11-2025 12:00,600,200
+Chicago,Bangkok,01-11-2025 14:00,450,350
+Chicago,Sydney,01-11-2025 10:00,800,100
+San Diego,Berlin,01-11-2025 20:00,650,100
+San Diego,Toronto,01-11-2025 14:00,700,200
+San Diego,Berlin,01-11-2025 12:00,700,400
+San Diego,Dubai,01-11-2025 16:00,750,400
+Los Angeles,Tokyo,01-11-2025 20:00,700,350
+Houston,Dubai,01-11-2025 20:00,900,350
+San Antonio,Dubai,01-11-2025 20:00,1000,150
+San Antonio,Toronto,01-11-2025 12:00,550,100
+Los Angeles,Toronto,01-11-2025 10:00,550,300
+Philadelphia,Dubai,01-11-2025 16:00,600,100
+Dallas,London,01-11-2025 18:00,1000,350
+Dallas,Beijing,01-11-2025 20:00,700,100
+Philadelphia,London,01-11-2025 18:00,600,200
+Austin,Toronto,01-11-2025 18:00,700,200
+Dallas,Sydney,01-11-2025 14:00,700,400
+New York,Tokyo,01-11-2025 10:00,600,350
+Los Angeles,Beijing,01-11-2025 14:00,750,300
+Los Angeles,Paris,01-11-2025 16:00,900,350
+Phoenix,Tokyo,01-11-2025 10:00,700,100
+Phoenix,Toronto,01-11-2025 10:00,650,200
+Dallas,Beijing,01-11-2025 16:00,500,100
+Los Angeles,Toronto,01-11-2025 16:00,500,100
+New York,Beijing,01-11-2025 12:00,650,400
+Dallas,Dubai,01-11-2025 20:00,1000,100
+Houston,Berlin,01-11-2025 10:00,750,100
+Chicago,Toronto,01-11-2025 14:00,600,350
+Houston,Paris,01-11-2025 18:00,650,350
+Philadelphia,Tokyo,01-11-2025 20:00,500,250
+Austin,Toronto,01-11-2025 16:00,1000,350
+New York,Berlin,01-11-2025 20:00,1000,100
+Dallas,London,01-11-2025 16:00,750,200
+Houston,Tokyo,01-11-2025 12:00,750,150
+Chicago,Toronto,01-11-2025 10:00,600,300
+Chicago,Paris,01-11-2025 14:00,600,150
+Philadelphia,Paris,01-11-2025 12:00,700,300
+Houston,London,01-11-2025 10:00,450,350
+Austin,Bangkok,01-11-2025 18:00,800,100
+New York,London,01-11-2025 16:00,500,400
+Philadelphia,Paris,01-11-2025 18:00,600,250
+San Diego,Toronto,01-11-2025 16:00,500,100
+Dallas,Rome,01-11-2025 16:00,550,350
+Chicago,Paris,01-11-2025 16:00,700,150
+Dallas,Paris,01-11-2025 14:00,550,400
+Houston,Bangkok,01-11-2025 14:00,750,400
+Chicago,Sydney,01-11-2025 14:00,550,400
+Philadelphia,Berlin,01-11-2025 12:00,900,250
+New York,Paris,01-11-2025 20:00,1000,300
+Philadelphia,Beijing,01-11-2025 14:00,550,200
+Houston,Beijing,01-11-2025 10:00,1000,400
+New York,Rome,01-11-2025 18:00,1000,300
+Los Angeles,Dubai,01-11-2025 20:00,700,150
+Philadelphia,Paris,01-11-2025 16:00,900,100
+Phoenix,Berlin,01-11-2025 14:00,1000,100
+New York,Sydney,01-11-2025 16:00,700,400
+Phoenix,Toronto,01-11-2025 18:00,550,400
+New York,Berlin,01-11-2025 10:00,900,150
+Dallas,Paris,01-11-2025 12:00,750,100
+San Antonio,London,01-11-2025 10:00,700,300
+San Diego,Rome,01-11-2025 14:00,650,100
+Austin,Beijing,01-11-2025 18:00,700,200
+Austin,Tokyo,01-11-2025 18:00,550,150
+New York,Toronto,01-11-2025 14:00,500,250
+Philadelphia,London,01-11-2025 14:00,600,200
+New York,Sydney,01-11-2025 10:00,750,400
+Los Angeles,Sydney,01-11-2025 20:00,750,250
+Chicago,Bangkok,01-11-2025 12:00,650,300
+San Antonio,Rome,01-11-2025 20:00,1000,400
+Houston,Beijing,01-11-2025 10:00,600,200
+Houston,Beijing,01-11-2025 20:00,700,400
+Dallas,Bangkok,01-11-2025 18:00,750,200
+Houston,London,01-11-2025 10:00,1000,100
+San Diego,Dubai,01-11-2025 16:00,1000,100
+Houston,Dubai,01-11-2025 18:00,500,350
+Phoenix,Dubai,01-11-2025 14:00,800,250
+Phoenix,Berlin,01-11-2025 18:00,650,400
+Houston,Beijing,01-11-2025 14:00,650,350
+Houston,Tokyo,01-11-2025 12:00,1000,100
+Austin,Toronto,01-11-2025 16:00,900,350
+San Antonio,Dubai,01-11-2025 14:00,1000,400
+Phoenix,London,01-11-2025 10:00,1000,400
+Houston,Bangkok,01-11-2025 18:00,650,300
+Los Angeles,Toronto,01-11-2025 18:00,1000,350
+San Diego,Tokyo,01-11-2025 14:00,450,100
+San Diego,Dubai,01-11-2025 16:00,800,150
+Dallas,Paris,01-11-2025 12:00,550,350
+Phoenix,Berlin,01-11-2025 20:00,600,200
+San Diego,Bangkok,01-11-2025 20:00,700,250
+New York,Paris,01-11-2025 14:00,600,200
+Los Angeles,London,01-11-2025 16:00,1000,400
+Dallas,Dubai,01-11-2025 20:00,550,300
+Philadelphia,Beijing,01-11-2025 12:00,450,150
+San Diego,Toronto,01-11-2025 14:00,500,150
+Philadelphia,Tokyo,01-11-2025 20:00,450,150
+New York,Dubai,01-11-2025 16:00,750,200
+Los Angeles,Sydney,01-11-2025 16:00,650,350
+Austin,Dubai,01-11-2025 10:00,550,250
+Chicago,London,01-11-2025 16:00,500,350
+Houston,London,01-11-2025 12:00,650,300
+Chicago,Sydney,01-11-2025 14:00,700,250
+Austin,Tokyo,01-11-2025 16:00,600,350
+Phoenix,Tokyo,01-11-2025 20:00,450,200
+Philadelphia,London,01-11-2025 14:00,800,200
+San Antonio,London,01-11-2025 14:00,600,350
+Dallas,Beijing,01-11-2025 12:00,550,150
+Dallas,Paris,01-11-2025 18:00,1000,200
+Houston,Beijing,01-11-2025 10:00,500,150
+Houston,Berlin,01-11-2025 14:00,700,200
+Houston,Sydney,01-11-2025 14:00,900,100
+Phoenix,Bangkok,01-11-2025 14:00,800,350
+Los Angeles,Paris,01-11-2025 14:00,500,300
+San Antonio,Dubai,01-11-2025 20:00,500,350
+Los Angeles,Bangkok,01-11-2025 14:00,450,100
+Philadelphia,Paris,01-11-2025 18:00,800,300
+Houston,Beijing,01-11-2025 18:00,1000,400
+Houston,Paris,01-11-2025 10:00,1000,150
+Houston,Dubai,01-11-2025 14:00,700,350
+Chicago,Berlin,01-11-2025 12:00,550,200
+Philadelphia,Berlin,01-11-2025 20:00,800,250
+New York,Bangkok,01-11-2025 16:00,900,150
+Philadelphia,Bangkok,01-11-2025 12:00,1000,350
+Dallas,Dubai,01-11-2025 10:00,650,150
+Dallas,Bangkok,01-11-2025 12:00,800,250
+Los Angeles,Toronto,01-11-2025 10:00,900,400
+San Antonio,Tokyo,01-11-2025 12:00,900,250
+Dallas,Paris,01-11-2025 12:00,500,200
+New York,Rome,01-11-2025 16:00,450,300
+San Antonio,Bangkok,01-11-2025 12:00,450,300
+New York,London,01-11-2025 20:00,500,300
+San Diego,Beijing,01-11-2025 14:00,650,250
+Phoenix,Dubai,01-11-2025 16:00,450,100
+Austin,Berlin,01-11-2025 10:00,700,300
+Austin,Rome,01-11-2025 18:00,800,100
+Philadelphia,Rome,01-11-2025 16:00,900,100
+New York,Sydney,01-11-2025 12:00,700,400
+Chicago,Sydney,01-11-2025 18:00,500,300
+Chicago,London,01-11-2025 14:00,1000,300
+San Antonio,Paris,01-11-2025 16:00,700,200
+Austin,Tokyo,01-11-2025 10:00,1000,350
+Austin,Dubai,01-11-2025 20:00,550,200
+Chicago,Toronto,01-11-2025 10:00,800,350
+San Diego,London,01-11-2025 14:00,700,150
+Dallas,Bangkok,01-11-2025 16:00,900,400
+Chicago,Tokyo,01-11-2025 14:00,600,150
+San Diego,Beijing,01-11-2025 16:00,500,400
+Philadelphia,Berlin,01-11-2025 16:00,500,150
+Phoenix,Paris,01-11-2025 12:00,900,150
+Los Angeles,London,01-11-2025 12:00,900,100
+Dallas,Rome,01-11-2025 18:00,650,350
+San Antonio,Dubai,01-11-2025 18:00,700,250
+Dallas,Tokyo,01-11-2025 16:00,500,300
+Austin,Dubai,01-11-2025 18:00,750,150
+Chicago,Toronto,01-11-2025 20:00,1000,100
+Philadelphia,Beijing,01-11-2025 20:00,700,350
+Austin,Bangkok,01-11-2025 10:00,450,250
+Philadelphia,Toronto,01-11-2025 10:00,700,400
+Los Angeles,Dubai,01-11-2025 18:00,700,350
+Austin,Berlin,01-11-2025 12:00,650,200
+Philadelphia,Toronto,01-11-2025 18:00,700,250
+Dallas,Tokyo,01-11-2025 16:00,1000,250
+Houston,Paris,01-11-2025 16:00,600,400
+Austin,Tokyo,01-11-2025 18:00,500,200
+Los Angeles,London,01-11-2025 12:00,800,250
+San Diego,London,01-11-2025 12:00,1000,200
+Philadelphia,Rome,01-11-2025 14:00,550,400
+Houston,Berlin,01-11-2025 20:00,550,350
+Phoenix,Sydney,01-11-2025 20:00,1000,200
+Los Angeles,Dubai,01-11-2025 18:00,550,100
+Austin,Sydney,01-11-2025 20:00,700,400
+Dallas,Toronto,01-11-2025 16:00,750,250
+Los Angeles,London,01-11-2025 14:00,500,350
+San Antonio,Dubai,01-11-2025 18:00,500,200
+Houston,Tokyo,01-11-2025 10:00,650,100
+Philadelphia,Berlin,01-11-2025 12:00,750,400
+New York,Dubai,01-11-2025 12:00,1000,350
+Philadelphia,Beijing,01-11-2025 20:00,550,300
+San Diego,Beijing,01-11-2025 16:00,550,150
+San Antonio,London,01-11-2025 18:00,750,350
+Phoenix,Tokyo,01-11-2025 16:00,800,200
+San Diego,Sydney,01-11-2025 16:00,500,250
+Philadelphia,Berlin,01-11-2025 10:00,500,300
+Los Angeles,Tokyo,01-11-2025 14:00,550,350
+Chicago,Bangkok,01-11-2025 20:00,450,250
+Dallas,Berlin,01-11-2025 18:00,450,400
+San Diego,London,01-11-2025 18:00,900,200
+Los Angeles,Sydney,01-11-2025 14:00,700,300
+New York,London,01-11-2025 16:00,600,100
+Houston,Tokyo,01-11-2025 20:00,1000,350
+Chicago,Bangkok,01-11-2025 20:00,800,250
+San Diego,Tokyo,01-11-2025 18:00,550,350
+Phoenix,Dubai,01-11-2025 14:00,650,150
+San Antonio,Dubai,01-11-2025 20:00,1000,400
+Dallas,Bangkok,01-11-2025 14:00,700,350
+San Antonio,Sydney,01-11-2025 16:00,550,300
+Philadelphia,Dubai,01-11-2025 12:00,900,300
+Los Angeles,Tokyo,01-11-2025 18:00,750,100
+San Antonio,Rome,01-11-2025 18:00,500,150
+Philadelphia,Sydney,01-11-2025 20:00,450,150
+Dallas,Paris,01-11-2025 12:00,800,200
+Phoenix,Rome,01-11-2025 10:00,600,200
+Chicago,Sydney,01-11-2025 16:00,450,400
+Phoenix,London,01-11-2025 16:00,900,250
+Chicago,Toronto,01-11-2025 20:00,800,300
+Philadelphia,London,01-11-2025 18:00,750,300
+Philadelphia,Sydney,01-11-2025 16:00,1000,300
+Philadelphia,Tokyo,01-11-2025 10:00,900,300
+San Diego,London,01-11-2025 20:00,550,200
+Austin,Sydney,01-11-2025 10:00,750,200
+Phoenix,Sydney,01-11-2025 16:00,800,400
+San Diego,Sydney,01-11-2025 12:00,550,350
+Austin,Tokyo,01-11-2025 14:00,450,150
+San Antonio,Toronto,01-11-2025 20:00,700,400
+New York,Rome,01-11-2025 16:00,500,350
+Dallas,London,01-11-2025 18:00,1000,400
+Chicago,Berlin,01-11-2025 12:00,800,100
+New York,Beijing,01-11-2025 10:00,550,200
+Los Angeles,Rome,01-11-2025 14:00,750,150
+Phoenix,Tokyo,01-11-2025 10:00,500,200
+Philadelphia,Berlin,01-11-2025 10:00,900,300
+New York,Sydney,01-11-2025 10:00,1000,350
+New York,Berlin,01-11-2025 16:00,450,150
+Phoenix,Bangkok,01-11-2025 16:00,750,150
+New York,Dubai,01-11-2025 12:00,550,100
+San Antonio,Paris,01-11-2025 10:00,700,200
+Los Angeles,Toronto,01-11-2025 16:00,650,200
+Los Angeles,Berlin,01-11-2025 12:00,700,400
+San Diego,Paris,01-11-2025 14:00,650,300
+New York,Rome,01-11-2025 12:00,750,350
+Philadelphia,London,01-11-2025 12:00,600,350
+Los Angeles,Dubai,01-11-2025 20:00,500,350
+San Diego,Paris,01-11-2025 20:00,800,150
+San Diego,Berlin,01-11-2025 18:00,650,350
+San Diego,Sydney,01-11-2025 20:00,450,350
+Dallas,Beijing,01-11-2025 10:00,1000,100
+Dallas,Beijing,01-11-2025 18:00,1000,100
+Philadelphia,Toronto,01-11-2025 10:00,1000,200
+Chicago,Toronto,01-11-2025 18:00,650,100
+New York,London,01-11-2025 16:00,750,250
+San Diego,Bangkok,01-11-2025 20:00,800,200
+Philadelphia,Bangkok,01-11-2025 20:00,1000,150
+Los Angeles,Sydney,01-11-2025 10:00,1000,350
+Austin,Berlin,01-11-2025 10:00,1000,100
+Dallas,Bangkok,01-11-2025 12:00,600,400
+San Diego,Dubai,01-11-2025 12:00,600,250
+Philadelphia,Tokyo,01-11-2025 14:00,500,250
+Los Angeles,Toronto,01-11-2025 20:00,450,150
+Houston,Dubai,01-11-2025 10:00,900,350
+Phoenix,Toronto,01-11-2025 10:00,800,200
+Los Angeles,Sydney,01-11-2025 14:00,500,350
+Los Angeles,Beijing,01-11-2025 20:00,800,300
+Los Angeles,Rome,01-11-2025 14:00,700,250
+Phoenix,Sydney,01-11-2025 20:00,450,250
+Phoenix,London,01-11-2025 10:00,800,300
+New York,Rome,01-11-2025 16:00,650,200
+Los Angeles,Dubai,01-11-2025 14:00,700,150
+San Antonio,Beijing,01-11-2025 14:00,750,100
+Dallas,Dubai,01-11-2025 18:00,750,200
+San Diego,Rome,01-11-2025 18:00,1000,200
+San Diego,Beijing,01-11-2025 12:00,500,200
+Philadelphia,Berlin,01-11-2025 14:00,800,400
+Austin,Berlin,01-11-2025 10:00,900,300
+San Diego,Dubai,01-11-2025 12:00,650,400
+Houston,Paris,01-11-2025 14:00,450,350
+Dallas,Toronto,01-11-2025 10:00,700,150
+Dallas,Rome,01-11-2025 12:00,550,150
+Chicago,Berlin,01-11-2025 12:00,500,400
+San Diego,Beijing,01-11-2025 20:00,900,350
+Dallas,Tokyo,01-11-2025 20:00,650,100
+New York,Beijing,01-11-2025 10:00,450,100
+San Antonio,Bangkok,01-11-2025 18:00,600,350
+Los Angeles,Paris,01-11-2025 14:00,600,200
+Austin,Dubai,01-11-2025 10:00,500,300
+New York,Sydney,01-11-2025 16:00,500,350
+Austin,Sydney,01-11-2025 12:00,450,350
+Austin,London,01-11-2025 16:00,450,100
+Houston,Rome,01-11-2025 14:00,650,300
+Philadelphia,London,01-11-2025 16:00,450,150
+Los Angeles,Paris,01-11-2025 18:00,600,100
+Austin,Dubai,01-11-2025 10:00,450,300
+San Antonio,Berlin,01-11-2025 18:00,1000,250
+Houston,Tokyo,01-11-2025 20:00,1000,350
+Los Angeles,Sydney,01-11-2025 12:00,700,100
+Philadelphia,Tokyo,01-11-2025 10:00,550,150
+San Diego,Beijing,01-11-2025 16:00,1000,250
+Austin,Tokyo,01-11-2025 18:00,450,150
+Houston,Tokyo,01-11-2025 14:00,550,200
+Houston,Paris,01-11-2025 16:00,700,400
+San Antonio,Toronto,01-11-2025 10:00,1000,400
+Houston,Dubai,01-11-2025 18:00,900,300
+Houston,Toronto,01-11-2025 12:00,500,100
+Philadelphia,Sydney,01-11-2025 18:00,450,200
+New York,Toronto,01-11-2025 20:00,1000,150
+Los Angeles,Paris,01-11-2025 18:00,750,250
+Chicago,London,01-11-2025 20:00,650,400
+Chicago,Berlin,01-11-2025 14:00,600,200
+San Diego,Sydney,01-11-2025 12:00,650,100
+San Diego,Rome,01-11-2025 12:00,550,250
+Houston,Rome,01-11-2025 20:00,750,350
+Philadelphia,Rome,01-11-2025 12:00,750,350
+New York,Rome,01-11-2025 10:00,750,100
+Houston,Beijing,01-11-2025 14:00,900,150
+New York,Beijing,01-11-2025 12:00,1000,400
+Chicago,Berlin,01-11-2025 18:00,900,350
+Los Angeles,Paris,01-11-2025 14:00,750,100
+Austin,Paris,01-11-2025 20:00,700,400
+San Antonio,Berlin,01-11-2025 16:00,550,300
+Dallas,Rome,01-11-2025 14:00,600,250
+San Antonio,London,01-11-2025 14:00,750,250
+Phoenix,Tokyo,01-11-2025 18:00,650,100
+Philadelphia,Paris,01-11-2025 18:00,700,400
+Phoenix,London,01-11-2025 18:00,1000,100
+Austin,London,01-11-2025 14:00,650,250
+San Antonio,Berlin,01-11-2025 10:00,500,150
+New York,Dubai,01-11-2025 14:00,800,250
+Houston,Sydney,01-11-2025 16:00,600,350
+San Antonio,Berlin,01-11-2025 14:00,650,250
+San Diego,Rome,01-11-2025 10:00,700,400
+Phoenix,Tokyo,01-11-2025 18:00,800,250
+Phoenix,Toronto,01-11-2025 12:00,800,400
+Chicago,Toronto,01-11-2025 20:00,750,300
+New York,Toronto,01-11-2025 16:00,500,150
+San Diego,Berlin,01-11-2025 12:00,700,300
+Chicago,Rome,01-11-2025 20:00,1000,100
+Chicago,Dubai,01-11-2025 10:00,900,100
+New York,Paris,01-11-2025 10:00,650,300
+San Antonio,Berlin,01-11-2025 14:00,800,400
+Houston,Toronto,01-11-2025 12:00,900,350
+Phoenix,Tokyo,01-11-2025 10:00,500,400
+San Antonio,Berlin,01-11-2025 14:00,650,200
+Austin,Beijing,01-11-2025 18:00,450,200
+Phoenix,Berlin,01-11-2025 14:00,800,250
+Chicago,Tokyo,01-11-2025 10:00,550,250
+Austin,Berlin,01-11-2025 18:00,1000,100
+Phoenix,Beijing,01-11-2025 10:00,650,400
+San Diego,Toronto,01-11-2025 18:00,750,400
+Philadelphia,Bangkok,01-11-2025 14:00,550,100
+Chicago,Toronto,01-11-2025 18:00,650,150
+Houston,Paris,01-11-2025 18:00,650,150
+San Antonio,Tokyo,01-11-2025 16:00,1000,300
+Phoenix,London,01-11-2025 16:00,1000,250
+Phoenix,London,01-11-2025 14:00,450,100
+Chicago,Paris,01-11-2025 20:00,650,400
+Chicago,Tokyo,01-11-2025 10:00,650,300
+Phoenix,London,01-11-2025 10:00,800,400
+Phoenix,Bangkok,01-11-2025 16:00,600,350
+New York,Bangkok,01-11-2025 10:00,900,100
+Chicago,Beijing,01-11-2025 18:00,700,150
+Philadelphia,Bangkok,01-11-2025 10:00,600,250
+Houston,Paris,01-11-2025 14:00,800,400
+Chicago,Beijing,01-11-2025 20:00,900,400
+Philadelphia,Beijing,01-11-2025 14:00,700,100
+San Antonio,Sydney,01-11-2025 20:00,1000,300
+Austin,Paris,01-11-2025 18:00,500,100
+Austin,Bangkok,01-11-2025 12:00,1000,150
+San Diego,Paris,01-11-2025 16:00,1000,350
+Austin,Tokyo,01-11-2025 12:00,800,100
+Los Angeles,Sydney,01-11-2025 20:00,450,400
+New York,Bangkok,01-11-2025 18:00,650,100
+San Antonio,Toronto,01-11-2025 16:00,900,200
+San Antonio,Tokyo,01-11-2025 14:00,450,200
+Chicago,Tokyo,01-11-2025 12:00,900,350
+Chicago,Bangkok,01-11-2025 10:00,750,400
+San Antonio,Tokyo,01-11-2025 10:00,750,150
+Chicago,London,01-11-2025 10:00,750,200
+New York,Beijing,01-11-2025 16:00,650,350
+Philadelphia,Berlin,01-11-2025 16:00,450,300
+Chicago,Bangkok,01-11-2025 16:00,900,250
+New York,Dubai,01-11-2025 20:00,450,350
+Houston,Sydney,01-11-2025 16:00,500,150
+Philadelphia,Toronto,01-11-2025 14:00,750,400
+Phoenix,Beijing,01-11-2025 14:00,600,400
+San Antonio,Dubai,01-11-2025 20:00,650,350
+Philadelphia,Sydney,01-11-2025 20:00,750,400
+Los Angeles,Bangkok,01-11-2025 14:00,550,100
+Los Angeles,Dubai,01-11-2025 18:00,750,100
+San Antonio,Sydney,01-11-2025 10:00,500,350
+Chicago,Berlin,01-11-2025 16:00,500,100
+Dallas,Dubai,01-11-2025 16:00,650,150
+Phoenix,Sydney,01-11-2025 10:00,500,350
+Dallas,Bangkok,01-11-2025 14:00,800,100
+San Antonio,Rome,01-11-2025 14:00,900,200
+Philadelphia,London,01-11-2025 12:00,500,400
+San Diego,Toronto,01-11-2025 10:00,600,350
+San Diego,Bangkok,01-11-2025 20:00,900,400
+Dallas,Dubai,01-11-2025 18:00,700,250
+Austin,Toronto,01-11-2025 18:00,500,300
+Austin,Dubai,01-11-2025 12:00,1000,300
+San Diego,Beijing,01-11-2025 16:00,750,200
+Philadelphia,Berlin,01-11-2025 14:00,500,250
+Chicago,London,01-11-2025 10:00,550,200
+Phoenix,Toronto,01-11-2025 12:00,650,150
+Austin,Toronto,01-11-2025 16:00,450,150
+Philadelphia,Sydney,01-11-2025 20:00,1000,300
+Chicago,Toronto,01-11-2025 18:00,800,200
+Dallas,Toronto,01-11-2025 18:00,450,200
+Dallas,Sydney,01-11-2025 12:00,750,250
+San Antonio,London,01-11-2025 10:00,900,400
+New York,Sydney,01-11-2025 10:00,750,250
+Phoenix,Tokyo,01-11-2025 10:00,1000,100
+Dallas,Rome,01-11-2025 16:00,800,400
+Phoenix,Tokyo,01-11-2025 10:00,700,100
+Chicago,Toronto,01-11-2025 14:00,500,250
+San Diego,Rome,01-11-2025 20:00,650,300
+Austin,Bangkok,01-11-2025 16:00,500,100
+Houston,Tokyo,01-11-2025 16:00,750,400
+San Antonio,Tokyo,01-11-2025 14:00,1000,350
+Austin,Toronto,01-11-2025 12:00,650,150
+New York,Tokyo,01-11-2025 10:00,1000,300
+Philadelphia,London,01-11-2025 16:00,700,200
+Los Angeles,Berlin,01-11-2025 12:00,500,350
+Phoenix,Tokyo,01-11-2025 18:00,900,250
+Philadelphia,Rome,01-11-2025 10:00,650,150
+Chicago,Paris,01-11-2025 14:00,800,400
+Phoenix,Paris,01-11-2025 16:00,900,350
+Dallas,Rome,01-11-2025 12:00,900,400
+Chicago,London,01-11-2025 16:00,1000,300
+Austin,Dubai,01-11-2025 12:00,600,350
+New York,Tokyo,01-11-2025 14:00,550,200
+Chicago,Rome,01-11-2025 18:00,650,300
+Dallas,Berlin,01-11-2025 20:00,750,200
+Phoenix,Beijing,01-11-2025 14:00,500,250
+Austin,Dubai,01-11-2025 18:00,800,100
+New York,Tokyo,01-11-2025 12:00,1000,350
+Dallas,Berlin,01-11-2025 20:00,450,150
+Phoenix,Berlin,01-11-2025 16:00,500,350
+San Diego,Tokyo,01-11-2025 14:00,750,300
+Los Angeles,Paris,01-11-2025 20:00,700,200
+San Antonio,Dubai,01-11-2025 20:00,800,150
+Dallas,Tokyo,01-11-2025 14:00,500,100
+New York,Berlin,01-11-2025 14:00,1000,250
+Houston,Tokyo,01-11-2025 18:00,650,350
+Dallas,Bangkok,01-11-2025 16:00,1000,100
+Chicago,Rome,01-11-2025 10:00,1000,250
+San Antonio,Toronto,01-11-2025 10:00,650,350
+Phoenix,Sydney,01-11-2025 20:00,500,100
+Austin,Paris,01-11-2025 12:00,550,150
+Chicago,London,01-11-2025 20:00,750,150
+Chicago,Rome,01-11-2025 20:00,800,150
+Austin,Berlin,01-11-2025 20:00,900,150
+Austin,Tokyo,01-11-2025 18:00,500,400
+Dallas,Tokyo,01-11-2025 20:00,800,400
+Los Angeles,London,01-11-2025 16:00,450,300
+Philadelphia,Toronto,01-11-2025 14:00,750,400
+Houston,Rome,01-11-2025 18:00,650,300
+San Antonio,Bangkok,01-11-2025 20:00,900,200
+Los Angeles,Sydney,01-11-2025 20:00,600,350
+Houston,Bangkok,01-11-2025 10:00,450,350
+Los Angeles,Rome,01-11-2025 20:00,550,150
+New York,Tokyo,01-11-2025 20:00,1000,200
+Phoenix,Sydney,01-11-2025 14:00,500,250
+New York,Sydney,01-11-2025 16:00,550,350
+San Antonio,Beijing,01-11-2025 10:00,800,350
+Los Angeles,Sydney,01-11-2025 10:00,1000,350
+New York,Berlin,01-11-2025 20:00,600,200
+Chicago,Tokyo,01-11-2025 12:00,550,150
+Houston,London,01-11-2025 20:00,650,350
+Chicago,Dubai,01-11-2025 12:00,700,150
+Los Angeles,Rome,01-11-2025 12:00,900,100
+San Diego,Beijing,01-11-2025 16:00,1000,150
+Chicago,Sydney,01-11-2025 18:00,800,100
+New York,Rome,01-11-2025 12:00,500,250
+Dallas,Paris,01-11-2025 14:00,600,300
+Philadelphia,Beijing,01-11-2025 18:00,800,250
+San Diego,Rome,01-11-2025 14:00,900,400
+Philadelphia,Bangkok,01-11-2025 20:00,500,250
+San Antonio,Rome,01-11-2025 12:00,750,200
+Austin,Beijing,01-11-2025 20:00,1000,250
+Philadelphia,Beijing,01-11-2025 18:00,650,200
+New York,Berlin,01-11-2025 12:00,600,200
+Houston,Beijing,01-11-2025 20:00,500,350
+Los Angeles,Toronto,01-11-2025 16:00,450,350
+New York,London,01-11-2025 10:00,750,200
+Houston,Dubai,01-11-2025 16:00,750,300
+Chicago,Dubai,01-11-2025 18:00,750,200
+Austin,Sydney,01-11-2025 16:00,550,350
+Chicago,Dubai,01-11-2025 18:00,700,100
+Houston,Sydney,01-11-2025 16:00,700,400
+New York,Paris,01-11-2025 14:00,600,400
+Chicago,Bangkok,01-11-2025 10:00,900,350
+San Diego,Tokyo,01-11-2025 18:00,650,350
+Houston,Paris,01-11-2025 12:00,750,250
+Austin,Dubai,01-11-2025 12:00,1000,200
+Houston,Rome,01-11-2025 18:00,800,100
+Chicago,Toronto,01-11-2025 12:00,750,150
+San Diego,Bangkok,01-11-2025 20:00,550,200
+Chicago,Tokyo,01-11-2025 18:00,650,200
+Los Angeles,Tokyo,01-11-2025 10:00,500,200
+Dallas,Sydney,01-11-2025 12:00,900,150
+Dallas,Paris,01-11-2025 14:00,1000,200
+Phoenix,Berlin,01-11-2025 16:00,750,300
+Austin,Sydney,01-11-2025 16:00,650,350
+Houston,Berlin,01-11-2025 12:00,900,300
+Philadelphia,Tokyo,01-11-2025 10:00,700,400
+New York,Sydney,01-11-2025 12:00,600,150
+New York,Toronto,01-11-2025 10:00,450,250
+Houston,Tokyo,01-11-2025 18:00,800,150
+Dallas,Dubai,01-11-2025 10:00,500,400
+Philadelphia,Toronto,01-11-2025 20:00,500,400
+Dallas,Beijing,01-11-2025 14:00,900,400
+Austin,London,01-11-2025 12:00,500,350
+San Diego,Rome,01-11-2025 14:00,900,400
+Austin,Tokyo,01-11-2025 20:00,1000,400
+Phoenix,Tokyo,01-11-2025 10:00,800,200
+Philadelphia,Berlin,01-11-2025 18:00,700,200
+Chicago,Bangkok,01-11-2025 20:00,550,150
+Austin,Sydney,01-11-2025 16:00,900,350
+Austin,Bangkok,01-11-2025 10:00,450,400
+New York,Paris,01-11-2025 16:00,500,300
+Philadelphia,London,01-11-2025 14:00,700,300
+Chicago,London,01-11-2025 14:00,800,150
+Dallas,Rome,01-11-2025 12:00,700,200
+Philadelphia,London,01-11-2025 12:00,450,350
+San Antonio,Berlin,01-11-2025 20:00,600,400
+Dallas,Rome,01-11-2025 10:00,1000,400
+San Diego,Beijing,01-11-2025 12:00,500,100
+Los Angeles,Tokyo,01-11-2025 10:00,550,300
+New York,Beijing,01-11-2025 12:00,500,100
+Phoenix,Dubai,01-11-2025 14:00,500,200
+Dallas,Berlin,01-11-2025 12:00,750,250
+Dallas,Beijing,01-11-2025 10:00,550,400
+Philadelphia,Berlin,01-11-2025 12:00,750,400
+Houston,Toronto,01-11-2025 18:00,500,200
+Philadelphia,Paris,01-11-2025 14:00,750,400
+San Antonio,Paris,01-11-2025 16:00,550,150
+Austin,Sydney,01-11-2025 18:00,650,400
+New York,Rome,01-11-2025 10:00,600,300
+Austin,Berlin,01-11-2025 20:00,600,400
+San Diego,London,01-11-2025 14:00,600,350
+Philadelphia,Paris,01-11-2025 16:00,550,250
+Los Angeles,Berlin,01-11-2025 14:00,700,200
+Austin,Toronto,01-11-2025 14:00,700,300
+Chicago,Toronto,01-11-2025 10:00,700,100
+San Diego,London,01-11-2025 14:00,750,200
+Philadelphia,Dubai,01-11-2025 10:00,900,200
+New York,Tokyo,01-11-2025 14:00,900,350
+Los Angeles,Rome,01-11-2025 20:00,450,100
+Houston,Toronto,01-11-2025 12:00,550,200
+Los Angeles,Toronto,01-11-2025 10:00,700,300
+Chicago,Tokyo,01-11-2025 14:00,1000,200
+Dallas,Toronto,01-11-2025 16:00,600,200
+San Antonio,Sydney,01-11-2025 12:00,650,200
+New York,Sydney,01-11-2025 18:00,600,200
+Los Angeles,Berlin,01-11-2025 12:00,650,400
+Austin,Berlin,01-11-2025 10:00,750,100
+Phoenix,Bangkok,01-11-2025 10:00,700,400
+Phoenix,Berlin,01-11-2025 20:00,550,100
+Los Angeles,Tokyo,01-11-2025 16:00,650,150
+Dallas,Dubai,01-11-2025 18:00,450,300
+Dallas,Sydney,01-11-2025 12:00,600,150
+Dallas,London,01-11-2025 18:00,1000,300
+Philadelphia,Rome,01-11-2025 20:00,800,350
+Los Angeles,Tokyo,01-11-2025 12:00,500,250
+San Diego,Bangkok,01-11-2025 18:00,450,200
+Los Angeles,Toronto,01-11-2025 16:00,650,400
+Phoenix,Sydney,01-11-2025 18:00,900,350
+Austin,Bangkok,01-11-2025 16:00,1000,150
+San Antonio,Tokyo,01-11-2025 12:00,500,150
+Chicago,Tokyo,01-11-2025 14:00,1000,300
+Philadelphia,Dubai,01-11-2025 12:00,500,200
+Philadelphia,Berlin,01-11-2025 20:00,700,300
+Houston,Paris,01-11-2025 18:00,600,100
+New York,Dubai,01-11-2025 20:00,500,400
+Houston,Toronto,01-11-2025 14:00,800,150
+San Diego,Tokyo,01-11-2025 14:00,900,250
+Dallas,Tokyo,01-11-2025 10:00,1000,100
+Philadelphia,Rome,01-11-2025 12:00,500,250
+Phoenix,Dubai,01-11-2025 16:00,600,250
+San Antonio,Dubai,01-11-2025 12:00,550,200
+New York,Sydney,01-11-2025 12:00,900,150
+Los Angeles,Sydney,01-11-2025 18:00,500,150
+New York,Bangkok,01-11-2025 14:00,800,350
+San Diego,Tokyo,01-11-2025 20:00,700,150
+Dallas,London,01-11-2025 12:00,750,400
+Phoenix,Sydney,01-11-2025 14:00,500,250
+Philadelphia,Bangkok,01-11-2025 14:00,800,350
+New York,London,01-11-2025 10:00,700,250
+Philadelphia,Rome,01-11-2025 18:00,550,150
+Chicago,Tokyo,01-11-2025 16:00,700,350
+Dallas,Dubai,01-11-2025 10:00,700,300
+Phoenix,Toronto,01-11-2025 16:00,500,200
+Phoenix,Beijing,01-11-2025 10:00,750,150
+Dallas,Toronto,01-11-2025 10:00,800,300
+San Diego,Berlin,01-11-2025 20:00,1000,100
+Dallas,Toronto,01-11-2025 20:00,750,400
+Phoenix,Toronto,01-11-2025 20:00,550,150
+San Antonio,Toronto,01-11-2025 20:00,550,150
+Phoenix,Sydney,01-11-2025 10:00,1000,400
+Los Angeles,Tokyo,01-11-2025 16:00,500,200
+Chicago,Toronto,01-11-2025 18:00,500,350
+Dallas,Dubai,01-11-2025 18:00,600,100
+Dallas,Sydney,01-11-2025 16:00,1000,100
+Philadelphia,Beijing,01-11-2025 12:00,750,250
+Austin,Rome,01-11-2025 16:00,500,150
+San Antonio,Paris,01-11-2025 10:00,600,350
+San Diego,Tokyo,01-11-2025 18:00,650,350
+Philadelphia,Berlin,01-11-2025 14:00,700,150
+Chicago,Dubai,01-11-2025 20:00,450,150
+New York,Sydney,01-11-2025 18:00,900,150
+Philadelphia,Beijing,01-11-2025 10:00,750,400
+Philadelphia,Tokyo,01-11-2025 16:00,600,200
+Austin,London,01-11-2025 20:00,800,250
+Chicago,Paris,01-11-2025 20:00,750,300
+Dallas,Bangkok,01-11-2025 16:00,700,200
+Los Angeles,London,01-11-2025 18:00,450,150
+Chicago,Toronto,01-11-2025 20:00,600,100
+Chicago,Toronto,01-11-2025 12:00,750,250
+Austin,Dubai,01-11-2025 18:00,600,300
+San Diego,Rome,01-11-2025 12:00,650,200
+Austin,Sydney,01-11-2025 18:00,500,400
+San Diego,Toronto,01-11-2025 20:00,700,400
+Chicago,Dubai,01-11-2025 16:00,1000,100
+Houston,Bangkok,01-11-2025 16:00,600,250
+New York,Berlin,01-11-2025 10:00,500,250
+Chicago,Bangkok,01-11-2025 18:00,550,150
+Philadelphia,Rome,01-11-2025 18:00,600,250
+Dallas,Bangkok,01-11-2025 18:00,900,350
+Chicago,Tokyo,01-11-2025 12:00,550,200
+Philadelphia,Berlin,01-11-2025 20:00,600,200
+Houston,Berlin,01-11-2025 10:00,700,300
+Houston,Beijing,01-11-2025 14:00,550,150
+Phoenix,Paris,01-11-2025 12:00,900,100
+Chicago,Berlin,01-11-2025 10:00,600,250
+San Antonio,Bangkok,01-11-2025 20:00,1000,350
+Los Angeles,Beijing,01-11-2025 18:00,700,150
+New York,Dubai,01-11-2025 12:00,900,150
+Houston,Paris,01-11-2025 20:00,500,200
+Philadelphia,Bangkok,01-11-2025 12:00,700,200
+Chicago,Dubai,01-11-2025 12:00,650,200
+San Antonio,London,01-11-2025 20:00,900,300
+Phoenix,Toronto,01-11-2025 10:00,1000,250
+Houston,Bangkok,01-11-2025 14:00,500,200
+Dallas,Sydney,01-11-2025 12:00,450,400
+Austin,London,01-11-2025 10:00,550,150
+Los Angeles,Paris,01-11-2025 20:00,750,300
+Dallas,Paris,01-11-2025 10:00,600,350
+Chicago,Bangkok,01-11-2025 18:00,450,350
+Los Angeles,Paris,01-11-2025 12:00,900,350
+San Antonio,London,01-11-2025 10:00,750,250
+San Antonio,London,01-11-2025 14:00,750,150
+San Diego,Rome,01-11-2025 10:00,1000,150
+Dallas,London,01-11-2025 14:00,700,150
+Dallas,Paris,01-11-2025 20:00,900,350
+New York,Rome,01-11-2025 12:00,700,100
+Chicago,Toronto,01-11-2025 14:00,700,100
+Austin,Sydney,01-11-2025 12:00,450,150
+Phoenix,Tokyo,01-11-2025 16:00,550,300
+Philadelphia,Bangkok,01-11-2025 18:00,650,200
+Houston,Paris,01-11-2025 18:00,1000,350
+Austin,Paris,01-11-2025 18:00,450,250
+San Diego,Berlin,01-11-2025 18:00,500,300
+San Diego,London,01-11-2025 14:00,600,350
+Austin,Tokyo,01-11-2025 14:00,600,350
+San Diego,Toronto,01-11-2025 18:00,600,150
+Dallas,Dubai,01-11-2025 20:00,700,400
+San Antonio,Berlin,01-11-2025 10:00,450,150
+Philadelphia,Tokyo,01-11-2025 10:00,900,400
+San Diego,Toronto,01-11-2025 20:00,600,100
+Austin,Beijing,01-11-2025 20:00,450,250
+Dallas,Dubai,01-11-2025 18:00,650,150
+Philadelphia,Rome,01-11-2025 14:00,1000,400
+Los Angeles,Tokyo,01-11-2025 10:00,500,400
+Philadelphia,Paris,01-11-2025 10:00,450,300
+Austin,Bangkok,01-11-2025 14:00,1000,400
+New York,Tokyo,01-11-2025 14:00,550,200
+San Diego,Dubai,01-11-2025 12:00,450,250
+San Antonio,Bangkok,01-11-2025 18:00,900,150
+Los Angeles,Paris,01-11-2025 12:00,450,150
+Los Angeles,Dubai,01-11-2025 20:00,800,150
+San Antonio,Berlin,01-11-2025 14:00,450,250
+San Antonio,Rome,01-11-2025 18:00,450,100
+San Diego,Paris,01-11-2025 12:00,450,400
+Chicago,London,01-11-2025 18:00,750,150
+Austin,Tokyo,01-11-2025 10:00,800,200
+Dallas,Tokyo,01-11-2025 14:00,500,100
+Houston,Beijing,01-11-2025 10:00,750,400
+Philadelphia,Berlin,01-11-2025 16:00,550,300
+Phoenix,Berlin,01-11-2025 16:00,550,150
+San Diego,Dubai,01-11-2025 16:00,900,150
+Houston,Rome,01-11-2025 20:00,1000,100
+Houston,Rome,01-11-2025 16:00,500,350
+Chicago,Toronto,01-11-2025 14:00,600,250
+Phoenix,Tokyo,01-11-2025 10:00,800,100
+San Antonio,Berlin,01-11-2025 12:00,700,350
+Chicago,Bangkok,01-11-2025 16:00,500,200
+San Diego,Berlin,01-11-2025 20:00,750,150
+Chicago,Sydney,01-11-2025 20:00,1000,150
+Los Angeles,Tokyo,01-11-2025 14:00,900,300
+San Diego,Beijing,01-11-2025 10:00,600,200
+Philadelphia,Rome,01-11-2025 16:00,1000,150
+Chicago,London,01-11-2025 16:00,900,200
+San Antonio,Bangkok,01-11-2025 20:00,500,250
+Chicago,Berlin,01-11-2025 14:00,500,300
+Philadelphia,Paris,01-11-2025 20:00,600,150
+San Antonio,Beijing,01-11-2025 18:00,450,150
+Chicago,Berlin,01-11-2025 18:00,800,150
+Chicago,Dubai,01-11-2025 14:00,650,400
+Phoenix,Berlin,01-11-2025 10:00,600,150
+Philadelphia,Dubai,01-11-2025 16:00,450,300
+Chicago,Berlin,01-11-2025 16:00,750,100
+Austin,Toronto,01-11-2025 16:00,800,200
+Austin,Beijing,01-11-2025 12:00,500,150
+San Diego,Dubai,01-11-2025 18:00,550,350
+Dallas,Paris,01-11-2025 14:00,500,150
+Chicago,Toronto,01-11-2025 12:00,450,400
+Phoenix,London,01-11-2025 20:00,700,250
+Philadelphia,Toronto,01-11-2025 16:00,800,400
+New York,Paris,01-11-2025 12:00,500,350
+Houston,Bangkok,01-11-2025 18:00,1000,350
+Philadelphia,Tokyo,01-11-2025 16:00,550,300
+San Diego,Sydney,01-11-2025 12:00,650,350
+San Diego,London,01-11-2025 14:00,550,100
+Dallas,Dubai,01-11-2025 14:00,1000,400
+Houston,Paris,01-11-2025 14:00,700,250
+Philadelphia,Berlin,01-11-2025 14:00,550,400
+Los Angeles,Paris,01-11-2025 10:00,900,400
+San Diego,Paris,01-11-2025 14:00,450,250
+Phoenix,Beijing,01-11-2025 20:00,650,100
+San Antonio,Beijing,01-11-2025 16:00,750,150
+Philadelphia,Tokyo,01-11-2025 18:00,650,300
+Philadelphia,Toronto,01-11-2025 10:00,450,400
+Philadelphia,Toronto,01-11-2025 14:00,800,100
+Phoenix,Dubai,01-11-2025 16:00,650,350
