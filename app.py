@@ -1,105 +1,154 @@
-# app.py
 from flask import Flask, request, jsonify
 import sqlite3
-from pricing import compute_dynamic_price_from_record
+import uuid
 from datetime import datetime
+import random
 
-DB_PATH = 'flights.db'
 app = Flask(__name__)
 
-def get_db_connection():
-    conn = sqlite3.connect(DB_PATH)
-    conn.row_factory = sqlite3.Row
-    return conn
+def get_db():
+    return sqlite3.connect("flights.db")
 
-def record_fare_history(conn, flight_id, computed_fare, seats_available, demand_index):
+@app.route("/book", methods=["POST"])
+def book_flight():
+    data = request.json
+
+    flight_id = data.get("flight_id")
+    passenger_name = data.get("passenger_name")
+    seats = data.get("seats", 1)
+
+    if not flight_id or not passenger_name:
+        return jsonify({"error": "Invalid input"}), 400
+
+    # Simulated payment
+    payment_status = random.choice(["success", "fail"])
+    if payment_status == "fail":
+        return jsonify({"error": "Payment failed"}), 400
+
+    conn = get_db()
+    cur = conn.cursor()
+
     try:
-        cur = conn.cursor()
+        conn.execute("BEGIN")
+
         cur.execute(
-            'CREATE TABLE IF NOT EXISTS fare_history (id INTEGER PRIMARY KEY AUTOINCREMENT, flight_id INTEGER, timestamp TEXT, computed_fare REAL, seats_available INTEGER, demand_index REAL)'
+            "SELECT seats_available, price FROM flights WHERE id=?",
+            (flight_id,)
         )
-        cur.execute(
-            'INSERT INTO fare_history (flight_id, timestamp, computed_fare, seats_available, demand_index) VALUES (?, datetime("now"), ?, ?, ?)',
-            (flight_id, computed_fare, seats_available, demand_index)
-        )
+        flight = cur.fetchone()
+
+        if not flight:
+            conn.rollback()
+            return jsonify({"error": "Flight not found"}), 404
+
+        if flight[0] < seats:
+            conn.rollback()
+            return jsonify({"error": "Not enough seats"}), 400
+
+        final_price = flight[1] * seats
+        pnr = str(uuid.uuid4())[:8].upper()
+
+        cur.execute("""
+            INSERT INTO bookings
+            (flight_id, passenger_name, seats_booked, final_price, status, pnr, booking_time)
+            VALUES (?, ?, ?, ?, ?, ?, ?)
+        """, (
+            flight_id,
+            passenger_name,
+            seats,
+            final_price,
+            "CONFIRMED",
+            pnr,
+            datetime.now().isoformat()
+        ))
+
+        cur.execute("""
+            UPDATE flights
+            SET seats_available = seats_available - ?
+            WHERE id = ?
+        """, (seats, flight_id))
+
         conn.commit()
+
+        return jsonify({
+            "message": "Booking confirmed",
+            "pnr": pnr,
+            "price": final_price
+        })
+
     except Exception as e:
-        # don't crash the API if recording fails; log in real app
-        print("fare_history write error:", e)
+        conn.rollback()
+        return jsonify({"error": str(e)}), 500
 
-@app.route('/flights', methods=['GET'])
-def get_flights():
-    conn = get_db_connection()
+    finally:
+        conn.close()
+@app.route("/booking/<pnr>", methods=["GET"])
+def get_booking(pnr):
+    conn = sqlite3.connect("flights.db")
     cur = conn.cursor()
-    cur.execute('SELECT * FROM flights')
-    rows = cur.fetchall()
 
-    flights = []
-    for row in rows:
-        rec = dict(row)
-        dynamic_price = compute_dynamic_price_from_record(rec)
-        rec['dynamic_price'] = dynamic_price
-        flights.append(rec)
-        # Optional: record fare_history (comment out if too chatty)
-        try:
-            record_fare_history(conn, rec.get('id'), dynamic_price, rec.get('seats_available'), rec.get('demand_index'))
-        except Exception:
-            pass
+    cur.execute("""
+        SELECT booking_id, flight_id, passenger_name, seats_booked,
+               final_price, status, pnr, booking_time
+        FROM bookings
+        WHERE pnr = ?
+    """, (pnr,))
 
+    booking = cur.fetchone()
     conn.close()
-    return jsonify(flights)
 
-@app.route('/search', methods=['GET'])
-def search_flights():
-    origin = request.args.get('origin')
-    destination = request.args.get('destination')
-    date = request.args.get('date')  # used for matching the times/departure_time string
+    if not booking:
+        return jsonify({"error": "Booking not found"}), 404
 
-    if not origin or not destination:
-        return jsonify({'error': 'origin and destination are required'}), 400
-
-    # simple search - matches origin, destination, and times includes date substring
-    query = 'SELECT * FROM flights WHERE origin = ? AND destination = ?'
-    params = [origin, destination]
-    if date:
-        query += ' AND (departure_time LIKE ? OR times LIKE ?)'
-        params.extend([f"%{date}%", f"%{date}%"])
-
-    conn = get_db_connection()
+    return jsonify({
+        "booking_id": booking[0],
+        "flight_id": booking[1],
+        "passenger_name": booking[2],
+        "seats_booked": booking[3],
+        "final_price": booking[4],
+        "status": booking[5],
+        "pnr": booking[6],
+        "booking_time": booking[7]
+    })
+@app.route("/cancel/<pnr>", methods=["POST"])
+def cancel_booking(pnr):
+    conn = sqlite3.connect("flights.db")
     cur = conn.cursor()
-    cur.execute(query, params)
-    rows = cur.fetchall()
 
-    flights = []
-    for row in rows:
-        rec = dict(row)
-        rec['dynamic_price'] = compute_dynamic_price_from_record(rec)
-        flights.append(rec)
-    conn.close()
-    return jsonify(flights)
+    try:
+        conn.execute("BEGIN")
 
-@app.route('/sort', methods=['GET'])
-def sort_flights():
-    sort_by = request.args.get('sort_by', 'price')  # we will compute dynamic_price but allow sorting by base fields
-    order = request.args.get('order', 'asc')
-    if sort_by not in ['price', 'base_fare', 'times', 'departure_time']:
-        return jsonify({'error': 'Invalid sort field'}), 400
-    if order not in ['asc', 'desc']:
-        return jsonify({'error': 'Invalid sort order'}), 400
+        cur.execute("""
+            SELECT flight_id, seats_booked
+            FROM bookings
+            WHERE pnr = ? AND status = 'CONFIRMED'
+        """, (pnr,))
+        booking = cur.fetchone()
 
-    query = f'SELECT * FROM flights ORDER BY {sort_by} {order}'
-    conn = get_db_connection()
-    cur = conn.cursor()
-    cur.execute(query)
-    rows = cur.fetchall()
+        if not booking:
+            conn.rollback()
+            return jsonify({"error": "Booking not found or already cancelled"}), 404
 
-    flights = []
-    for row in rows:
-        rec = dict(row)
-        rec['dynamic_price'] = compute_dynamic_price_from_record(rec)
-        flights.append(rec)
-    conn.close()
-    return jsonify(flights)
+        flight_id, seats = booking
 
-if __name__ == '__main__':
-    app.run(debug=True)
+        cur.execute("""
+            UPDATE bookings
+            SET status = 'CANCELLED'
+            WHERE pnr = ?
+        """, (pnr,))
+
+        cur.execute("""
+            UPDATE flights
+            SET seats_available = seats_available + ?
+            WHERE id = ?
+        """, (seats, flight_id))
+
+        conn.commit()
+        return jsonify({"message": "Booking cancelled successfully"})
+
+    except Exception as e:
+        conn.rollback()
+        return jsonify({"error": str(e)}), 500
+
+    finally:
+        conn.close()
