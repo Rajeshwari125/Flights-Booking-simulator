@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Flight Booking Simulator</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>✈️ Flight Booking Simulator</h1>
+    <div class="card">
+      <label>From</label>
+      <select><option>Chennai</option><option>Bangalore</option></select>
+      <label>To</label>
+      <select><option>Delhi</option><option>Mumbai</option></select>
+      <label>Date</label>
+      <input type="date">
+      <label>Passengers</label>
+      <input type="number" value="1" min="1">
+      <button onclick="searchFlights()">Search Flights</button>
+    </div>
+  </div>
+  <script src="js/app.js"></script>
+</body>
+</html>
